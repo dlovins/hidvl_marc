@@ -12,7 +12,6 @@
 =008  080503s1970\\\\nyu085\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_255_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610655
-=035  9\$aNYUb13610655
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng
 =245  00$aDionysus in 69 (digitally re-rendered)$h[videorecording].
@@ -69,9 +68,6 @@
 =008  070508s1972\\\\cau024\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_077_01$2nyu-hidvl
 =024  7\$aHI2007.077_01$2nyu-hidvl
-=035  9\$aNYUb13530792
-=035  \\$a(NYU)NYUb13530792
-=035  9\$aNYUH13530792/14340657
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  04$aLos vendidos$h[videorecording]
@@ -122,9 +118,7 @@
 =008  070830s1973\\\\xx\061\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_083_01$2nyu-hidvl
 =024  7\$aHI2007.083_01$2nyu-hidvl
-=035  9\$aNYUb13530836
 =035  \\$a(NYU)NYUb13530836
-=035  9\$aNYUH13530836/14340731
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =079  \\$a(OCoLC)183095168
@@ -177,8 +171,6 @@
 =024  7\$aHI2007.258_01_A$2nyu-hidvl
 =024  7\$aHI2007.258_01_B$2nyu-hidvl
 =035  \\$a(NYU)NYUb13611631
-=035  9\$aNYUb13611631
-=035  9\$aNYUH13611631/14488514
 =040  \\$aNNU$cNNU$eamim
 =245  04$aThe tooth of crime$h[videorecording].
 =260  \\$aNew York :$b[s.n.],$cc1974, 1973.
@@ -235,8 +227,6 @@
 =024  7\$aHI2006_002_01$2nyu-hidvl
 =024  7\$aHI2006.001_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13561415
-=035  9\$aNYUb13561415
-=035  9\$aNYUH13561415/14399488
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-cl---
 =079  \\$a(OCoLC)898312385
@@ -1003,9 +993,6 @@
 =008  070508s1980\\\\nyu023\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_052_01$2nyu-hidvl
 =024  7\$aHI2007.052_01$2nyu-hidvl
-=035  9\$aNYUb13530399
-=035  \\$a(NYU)NYUb13530399
-=035  9\$aNYUH13530399/14339795
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-va$an-usa--
 =245  00$aSplit Britches$h[videorecording]
@@ -1783,9 +1770,7 @@
 =008  070508s1983\\\\nyu078\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_054_01$2nyu-hidvl
 =024  7\$aHI2007.054_01$2nyu-hidvl
-=035  9\$aNYUb13530408
 =035  \\$a(NYU)NYUb13530408
-=035  9\$aNYUH13530408/14339893
 =040  \\$aNNU$cNNU$eamim
 =245  00$aBeauty and the beast$h[videorecording]
 =246  3\$aBeauty and the beast (1983)
@@ -1830,8 +1815,6 @@
 =024  7\$aHI2006_150_02$2nyu-hidvl
 =024  7\$aHI2006.150_02$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500871
-=035  9\$aNYUb13500871
-=035  9\$aNYUH13500871/14291566
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -1882,9 +1865,7 @@
 =008  070612e19841117nyu078\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_050_01$2nyu-hidvl
 =024  7\$aHI2007.050_01$2nyu-hidvl
-=035  9\$aNYUb13504874
 =035  \\$a(NYU)NYUb13504874
-=035  9\$aNYUH13504874/14297953
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aUpwardly mobile home$h[videorecording]
@@ -1933,9 +1914,7 @@
 =008  070828e198409uunyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_053_01$2nyu-hidvl
 =024  7\$aHI2007.053_01$2nyu-hidvl
-=035  9\$aNYUb13530476
 =035  \\$a(NYU)NYUb13530476
-=035  9\$aNYUH13530476/14339918
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-va$an-usa--
 =245  00$aSplit Britches$h[videorecording]
@@ -1983,8 +1962,6 @@
 =024  7\$aHI2005_073_01$2nyu-hidvl
 =024  7\$aHI2005.073_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507867
-=035  9\$aNYUb13507867
-=035  9\$aNYUH13507867/14302082
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us-ca$an-mx---
@@ -2034,8 +2011,6 @@
 =024  7\$aHI2007_029_03$2nyu-hidvl
 =024  7\$aHI2007.029_03$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502875
-=035  9\$aNYUb13502875
-=035  9\$aNYUH13502875/14294790
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---$an-us---$ancnq---
@@ -2147,8 +2122,6 @@
 =024  7\$aHI2006_150_01$2nyu-hidvl
 =024  7\$aHI2006.150_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500856
-=035  9\$aNYUb13500856
-=035  9\$aNYUH13500856/14291523
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -2239,8 +2212,6 @@
 =024  7\$aHI2007_029_02$2nyu-hidvl
 =024  7\$aHI2007.029_02$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502866
-=035  9\$aNYUb13502866
-=035  9\$aNYUH13502866/14294786
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -2333,9 +2304,6 @@
 =008  070523s1986\\\\ec\039\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_125_01$2nyu-hidvl
 =024  7\$aHI2006.125_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499702
-=035  9\$aNYUb13499702
-=035  9\$aNYUH13499702/14289727
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -2392,9 +2360,7 @@
 =008  070508s1986\\\\nyu079\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_051_01$2nyu-hidvl
 =024  7\$aHI2007.051_01$2nyu-hidvl
-=035  9\$aNYUb13530325
 =035  \\$a(NYU)NYUb13530325
-=035  9\$aNYUH13530325/14339682
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aUpwardly mobile home$h[videorecording]
@@ -2443,9 +2409,7 @@
 =008  070828e19860530nyu078\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_055_01$2nyu-hidvl
 =024  7\$aHI2007.055_01$2nyu-hidvl
-=035  9\$aNYUb13530486
 =035  \\$a(NYU)NYUb13530486
-=035  9\$aNYUH13530486/14339933
 =040  \\$aNNU$cNNU$eamim
 =245  00$aBeauty and the beast$h[videorecording]
 =246  3\$aBeauty and the beast (May 30, 1986)
@@ -2528,9 +2492,7 @@
 =008  070508e19870401cau059\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_076_01$2nyu-hidvl
 =024  7\$aHI2007.076_01$2nyu-hidvl
-=035  9\$aNYUb13530783
 =035  \\$a(NYU)NYUb13530783
-=035  9\$aNYUH13530783/14340627
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aCorridos :$btales of passion and revolution$h[videorecording]
@@ -2583,9 +2545,7 @@
 =024  7\$aHI2007_078_01$2nyu-hidvl
 =024  7\$aHI2007_079_01$2nyu-hidvl
 =024  7\$aHI2007.078_01$2nyu-hidvl
-=035  9\$aNYUb13530813
 =035  \\$a(NYU)NYUb13530813
-=035  9\$aNYUH13530813/14340678
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aEl fin del mundo$h[videorecording]
@@ -2638,8 +2598,6 @@
 =024  7\$aHI2006_029_01$2nyu-hidvl
 =024  7\$aHI2006.029_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505463
-=035  9\$aNYUb13505463
-=035  9\$aNYUH13505463/14298837
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aSon de los diablos$h[videorecording].
@@ -2690,7 +2648,6 @@
 =024  7\$aHI2007_213_01$2nyu-hidvl
 =024  7\$aHI2007.213_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605855
-=035  9\$aNYUb13605855
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -2739,9 +2696,6 @@
 =008  070606s1987\\\\pr\020\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_026_01$2nyu-hidvl
 =024  7\$aHI2007.026_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13502692
-=035  9\$aNYUb13502692
-=035  9\$aNYUH13502692/14294519
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -2794,9 +2748,6 @@
 =008  070607s1987\\\\pr\047\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_028_A_01$2nyu-hidvl
 =024  7\$aHI2007.028_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13502918
-=035  9\$aNYUb13502918
-=035  9\$aNYUH13502918/14294933
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -2854,9 +2805,6 @@
 =008  070607e19870308pr\009\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_028_B_02$2nyu-hidvl
 =024  7\$aHI2007.028_04_B$2nyu-hidvl
-=035  \\$a(NYU)NYUb13502951
-=035  9\$aNYUb13502951
-=035  9\$aNYUH13502951/14294984
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -2913,8 +2861,6 @@
 =024  7\$aHI2007_182_01$2nyu-hidvl
 =024  7\$aHI2007.182_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541473
-=035  9\$aNYUb13541473
-=035  9\$aNYUH13541473/14361387
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwcu---
@@ -2971,8 +2917,6 @@
 =024  7\$aHI2007_212_01$2nyu-hidvl
 =024  7\$aHI2007.211_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605840
-=035  9\$aNYUb13605840
-=035  9\$aNYUH13605840/14478582
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -3028,9 +2972,6 @@
 =024  7\$aHI2006_055_A_01$2nyu-hidvl
 =024  7\$aHI2006_055_B_01$2nyu-hidvl
 =024  7\$aHI2006.055_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493731
-=035  9\$aNYUb13493731
-=035  9\$aNYUH13493731/14280472
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aita
 =043  \\$an-mx---
@@ -3085,8 +3026,6 @@
 =024  7\$aHI2007_192_01$2nyu-hidvl
 =024  7\$aHI2007.192_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541676
-=035  9\$aNYUb13541676
-=035  9\$aNYUH13541676/14361723
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aMigrants! Cantata a los emigrantes$h[videorecording].
@@ -3205,9 +3144,7 @@
 =024  7\$aHI2007_057_A_01$2nyu-hidvl
 =024  7\$aHI2007_057_B_01$2nyu-hidvl
 =024  7\$aHI2007.057_01_A$2nyu-hidvl
-=035  9\$aNYUb13530602
 =035  \\$a(NYU)NYUb13530602
-=035  9\$aNYUH13530602/14340181
 =040  \\$aNNU$cNNU$eamim
 =245  00$aPatience and Sarah$h[videorecording]
 =260  \\$c1987 May.
@@ -3301,9 +3238,6 @@
 =008  070607e19880106pr\022\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_028_A_02$2nyu-hidvl
 =024  7\$aHI2007.028_02_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13502925
-=035  9\$aNYUb13502925
-=035  9\$aNYUH13502925/14294952
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -3360,9 +3294,6 @@
 =008  070607e19880308pr\023\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_028_B_01$2nyu-hidvl
 =024  7\$aHI2007.028_03_B$2nyu-hidvl
-=035  \\$a(NYU)NYUb13502942
-=035  9\$aNYUb13502942
-=035  9\$aNYUH13502942/14294973
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -3419,8 +3350,6 @@
 =024  7\$aHI2007_096_01$2nyu-hidvl
 =024  7\$aHI2007.096_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13531670
-=035  9\$aNYUb13531670
-=035  9\$aNYUH13531670/14342063
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---$acc-----
@@ -3533,9 +3462,6 @@
 =008  070523s1989\\\\ck\033\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_118_01$2nyu-hidvl
 =024  7\$aHI2006.118_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499542
-=035  9\$aNYUb13499542
-=035  9\$aNYUH13499542/14289519
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -3590,8 +3516,6 @@
 =024  7\$aHI2006_131_01$2nyu-hidvl
 =024  7\$aHI2006.131_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500371
-=035  9\$aNYUb13500371
-=035  9\$aNYUH13500371/14290736
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -3644,8 +3568,6 @@
 =008  070829e19890324cau039\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_064_01$2nyu-hidvl
 =024  7\$aHI2007.064_01$2nyu-hidvl
-=035  9\$aNYUb13530673
-=035  9\$aNYUH13530673/14340328
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aLa passion play$h[videorecording]
@@ -3753,8 +3675,6 @@
 =024  7\$aHI2006_142_01$2nyu-hidvl
 =024  7\$aHI2006.142_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500817
-=035  9\$aNYUb13500817
-=035  9\$aNYUH13500817/14291453
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -3802,9 +3722,6 @@
 =008  071114e19891208nyu081\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_014_01$2nyu-hidvl
 =024  7\$aHI2005.014_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13553459
-=035  9\$aNYUb13553459
-=035  9\$aNYUH13553459/14383428
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aAnnie Humphrey in concert$h[videorecording]
@@ -3851,9 +3768,6 @@
 =008  070607s1989\\\\pr\027\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_029_01$2nyu-hidvl
 =024  7\$aHI2007.029_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13502859
-=035  9\$aNYUb13502859
-=035  9\$aNYUH13502859/14294756
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -3910,9 +3824,6 @@
 =008  070522e19891006nyu058\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_113_01$2nyu-hidvl
 =024  7\$aHI2006.113_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499294
-=035  9\$aNYUb13499294
-=035  9\$aNYUH13499294/14289164
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  04$aThe ozone show$h[videorecording].
@@ -3968,8 +3879,6 @@
 =024  7\$aHI2005_013_B_01$2nyu-hidvl
 =024  7\$aHI2005.013_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13553401
-=035  9\$aNYUb13553401
-=035  9\$aNYUH13553401/14383376
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNative American visions$h[videorecording].
 =246  33$aCelebrate Brooklyn :$bNative American visions
@@ -4030,8 +3939,6 @@
 =024  7\$aHI2006_036_01$2nyu-hidvl
 =024  7\$aHI2006.036_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505315
-=035  9\$aNYUb13505315
-=035  9\$aNYUH13505315/14298629
 =040  \\$aNNU$cNNU$eamim
 =245  00$aYourcenar, o cada quien su Marguerite$h[videorecording].
 =246  30$aCada quien su Marguerite
@@ -4084,8 +3991,6 @@
 =024  7\$aHI2006_034_01$2nyu-hidvl
 =024  7\$aHI2006.034_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505361
-=035  9\$aNYUb13505361
-=035  9\$aNYUH13505361/14298686
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aDemostración pedagógica de Ana Correa$h[videorecording].
@@ -4481,8 +4386,6 @@
 =024  7\$aHI2006_135_01$2nyu-hidvl
 =024  7\$aHI2006.135_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500425
-=035  9\$aNYUb13500425
-=035  9\$aNYUH13500425/14290811
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---$af------
@@ -4534,8 +4437,6 @@
 =024  7\$aHI2007_193_01$2nyu-hidvl
 =024  7\$aHI2007.193_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541678
-=035  9\$aNYUb13541678
-=035  9\$aNYUH13541678/14361733
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aVoces de acero$h[videorecording] =$bVoices of steel.
@@ -4592,8 +4493,6 @@
 =024  7\$aHI2007_194_01$2nyu-hidvl
 =024  7\$aHI2007.194_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541681
-=035  9\$aNYUb13541681
-=035  9\$aNYUH13541681/14361741
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  04$aThe embrace$h[videorecording] =$bEl Abrazo.
@@ -4647,8 +4546,6 @@
 =024  7\$aHI2005_037_01$2nyu-hidvl
 =024  7\$aHI2005.037_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556411
-=035  9\$aNYUb13556411
-=035  9\$aNYUH13556411/14399854
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aSkin, stone, positive$h[videorecording].
@@ -4701,8 +4598,6 @@
 =024  7\$aHI2005_002_01$2nyu-hidvl
 =024  7\$aHI2005.002_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13056114
-=035  9\$aNYUb13056114
-=035  9\$aNYUH13056114/13702661
 =040  \\$aNNU$cNNU$eamim
 =245  00$aReverb-ber-ber-rations$h[videorecording]
 =246  3\$aReverberations
@@ -4753,9 +4648,6 @@
 =008  070517e19900928nyu086\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_109_01$2nyu-hidvl
 =024  7\$aHI2006.109_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497864
-=035  9\$aNYUb13497864
-=035  9\$aNYUH13497864/14287016
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---$an-us-ny
 =245  00$aSpies r us$h[videorecording].
@@ -4814,8 +4706,6 @@
 =024  7\$aHI2005_027_B_01$2nyu-hidvl
 =024  7\$aHI2005.027_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554642
-=035  9\$aNYUb13554642
-=035  9\$aNYUH13554642/14384847
 =040  \\$aNNU$cNNU$eamim
 =245  00$aFriends of Pura Fe benefit concert$h[videorecording]
 =246  30$aPura Fe benefit concert
@@ -4871,9 +4761,6 @@
 =008  071113s1990\\\\pe\041\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2005_094_01$2nyu-hidvl
 =024  7\$aHI2005.094_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13552795
-=035  9\$aNYUb13552795
-=035  9\$aNYUH13552795/14382303
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aAdiós Ayacucho$h[videorecording]
@@ -4927,9 +4814,6 @@
 =008  071113s1990\\\\pe\065\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2005_096_01$2nyu-hidvl
 =024  7\$aHI2005.096_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13552900
-=035  9\$aNYUb13552900
-=035  9\$aNYUH13552900/14382447
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aNo me toquen ese valse$h[videorecording]
@@ -4979,9 +4863,7 @@
 =008  070830s1990\\\\cau019\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_085_01$2nyu-hidvl
 =024  7\$aHI2007.085_01$2nyu-hidvl
-=035  9\$aNYUb13530858
 =035  \\$a(NYU)NYUb13530858
-=035  9\$aNYUH13530858/14340762
 =040  \\$aNNU$cNNU$eamim
 =245  04$aThe four roads$h[videorecording]
 =260  \\$c1990.
@@ -5139,9 +5021,6 @@
 =008  070828e199002uunyu070\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_056_01$2nyu-hidvl
 =024  7\$aHI2007.056_01$2nyu-hidvl
-=035  9\$aNYUb13530496
-=035  \\$a(NYU)NYUb13530496
-=035  9\$aNYUH13530496/14339948
 =040  \\$aNNU$cNNU$eamim
 =245  04$aThe anniversary waltz$h[videorecording]
 =260  \\$c1990 Feb.
@@ -5220,9 +5099,6 @@
 =008  070523e19911107ck\072\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_129_01$2nyu-hidvl
 =024  7\$aHI2006.129_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499778
-=035  9\$aNYUb13499778
-=035  9\$aNYUH13499778/14289836
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -5275,8 +5151,6 @@
 =024  7\$aHI2006_141_01$2nyu-hidvl
 =024  7\$aHI2006.141_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500724
-=035  9\$aNYUb13500724
-=035  9\$aNYUH13500724/14291294
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -5327,8 +5201,6 @@
 =024  7\$aHI2006_146_01$2nyu-hidvl
 =024  7\$aHI2006.145_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500861
-=035  9\$aNYUb13500861
-=035  9\$aNYUH13500861/14291533
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -5379,8 +5251,6 @@
 =024  7\$aHI2007_027_01$2nyu-hidvl
 =024  7\$aHI2007.027_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502725
-=035  9\$aNYUb13502725
-=035  9\$aNYUH13502725/14294567
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -5433,9 +5303,6 @@
 =008  050715s1991\\\\nyu032\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_001_01$2nyu-hidvl
 =024  7\$aHI2005.001_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13056090
-=035  9\$aNYUb13056090
-=035  9\$aNYUH13056090/13702626
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMy place$h[videorecording]
 =260  \\$c1991.
@@ -5481,9 +5348,6 @@
 =008  071004s1991\\\\cu\018\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_182_02$2nyu-hidvl
 =024  7\$aHI2007.182_02$2nyu-hidvl
-=035  \\$a(NYU)NYUb13541796
-=035  9\$aNYUb13541796
-=035  9\$aNYUH13541796/14367404
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwcu---
@@ -5585,9 +5449,6 @@
 =024  7\$aHI2004_057_A_01$2nyu-hidvl
 =024  7\$aHI2004_057_B_01$2nyu-hidvl
 =024  7\$aHI2004.057_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13049193
-=035  9\$aNYUb13049193
-=035  9\$aNYUH13049193/13688350
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)878606474
@@ -5654,9 +5515,6 @@
 =024  7\$aHI2004_061_A_01$2nyu-hidvl
 =024  7\$aHI2004_061_B_01$2nyu-hidvl
 =024  7\$aHI2004.061_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13051659
-=035  9\$aNYUb13051659
-=035  9\$aNYUH13051659/14291636
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -5711,9 +5569,6 @@
 =008  070502e199112uumx\086\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_056_01$2nyu-hidvl
 =024  7\$aHI2006.056_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493547
-=035  9\$aNYUb13493547
-=035  9\$aNYUH13493547/14280467
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  03$aEl ejido en Navidad$h[videorecording].
@@ -5766,10 +5621,6 @@
 =024  7\$aHI2004_032_01$2nyu-hidvl
 =024  7\$aHI2004.032_01$2nyu-hidvl
 =024  7\$aHI2004.032_01$2nyu-hidvl
-=035  9\$aNYUb12917685
-=035  \\$a(NYU)NYUb12917685
-=035  9\$aNYUH12917685/13491753
-=035  9\$aNYUH12917685/13491755
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -5821,10 +5672,6 @@
 =024  7\$aHI2004_033_01$2nyu-hidvl
 =024  7\$aHI2004.033_01$2nyu-hidvl
 =024  7\$aHI2004.033_01$2nyu-hidvl
-=035  9\$aNYUb12917697
-=035  \\$a(NYU)NYUb12917697
-=035  9\$aNYUH12917697/13491772
-=035  9\$aNYUH12917697/13491773
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  00$aChavela Vargas en vivo en El Hábito (versión sin editar)$h[videorecording].
@@ -5877,9 +5724,6 @@
 =024  7\$aHI2004_037_A_01$2nyu-hidvl
 =024  7\$aHI2004_037_B_01$2nyu-hidvl
 =024  7\$aHI2004.037_01_A$2nyu-hidvl
-=035  9\$aNYUb12924367
-=035  \\$a(NYU)NYUb12924367
-=035  9\$aNYUH12924367/14291630
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -5944,8 +5788,6 @@
 =024  7\$aHI2007_195_A_01$2nyu-hidvl
 =024  7\$aHI2007.195_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541683
-=035  9\$aNYUb13541683
-=035  9\$aNYUH13541683/14361749
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$anwpr---$an-us---
@@ -6041,9 +5883,6 @@
 =008  070612e19910923nyu066\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_041_01$2nyu-hidvl
 =024  7\$aHI2007.041_01$2nyu-hidvl
-=035  9\$aNYUb13504295
-=035  \\$a(NYU)NYUb13504295
-=035  9\$aNYUH13504295/14297094
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMonsieur-madame$h[videorecording]
 =246  3\$aStaged reading of Monsieur-madame
@@ -6101,9 +5940,7 @@
 =024  7\$aHI2007_047_A_01$2nyu-hidvl
 =024  7\$aHI2007_047_B_01$2nyu-hidvl
 =024  7\$aHI2007.047_01_A$2nyu-hidvl
-=035  9\$aNYUb13504763
 =035  \\$a(NYU)NYUb13504763
-=035  9\$aNYUH13504763/14297802
 =040  \\$aNNU$cNNU$eamim
 =245  00$aBelle reprieve$h[videorecording].
 =260  \\$c1991.
@@ -6162,8 +5999,6 @@
 =024  7\$aHI2005_026_B_01$2nyu-hidvl
 =024  7\$aHI2005.026_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554630
-=035  9\$aNYUb13554630
-=035  9\$aNYUH13554630/14384829
 =040  \\$aNNU$cNNU$eamim
 =245  00$aWhite Eagle in concert$h[videorecording]
 =246  3\$iTitle on DVD cover and title screen:$aWhite Eagle
@@ -6217,8 +6052,6 @@
 =024  7\$aHI2005_015_01$2nyu-hidvl
 =024  7\$aHI2005.015_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13553484
-=035  9\$aNYUb13553484
-=035  9\$aNYUH13553484/14383460
 =040  \\$aNNU$cNNU$eamim
 =245  00$aFollow your heart's desire$h[videorecording]
 =246  33$aUlali :$bFollow your heart's desire
@@ -6270,9 +6103,6 @@
 =024  7\$aHI2005_028_A_01$2nyu-hidvl
 =024  7\$aHI2005_028_B_01$2nyu-hidvl
 =024  7\$aHI2005.028_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13554792
-=035  9\$aNYUb13554792
-=035  9\$aNYUH13554792/14385039
 =040  \\$aNNU$cNNU$eamim
 =245  00$aAmerican Indian Community House benefit$h[videorecording]
 =260  \\$c1991.
@@ -6319,9 +6149,6 @@
 =008  070517s1992\\\\cau015\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_106_01$2nyu-hidvl
 =024  7\$aHI2006.106_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497728
-=035  9\$aNYUb13497728
-=035  9\$aNYUH13497728/14286808
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an------$as------
 =245  00$aIndigurrito$h[videorecording].
@@ -6372,9 +6199,7 @@
 =024  7\$aHI2007_036_A_01$2nyu-hidvl
 =024  7\$aHI2007_036_B_01$2nyu-hidvl
 =024  7\$aHI2007.036_01_A$2nyu-hidvl
-=035  9\$aNYUb13504077
 =035  \\$a(NYU)NYUb13504077
-=035  9\$aNYUH13504077/14296809
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwcu---$acl-----
 =245  00$aEréndira$h[videorecording].
@@ -6431,8 +6256,6 @@
 =024  7\$aHI2005_050_01$2nyu-hidvl
 =024  7\$aHI2005.050_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556753
-=035  9\$aNYUb13556753
-=035  9\$aNYUH13556753/14389321
 =040  \\$aNNU$cNNU$eamim
 =245  00$aHuipil$h[videorecording]
 =246  3\$aCoatlicue Theater Company :$bHuipil
@@ -6482,9 +6305,6 @@
 =008  071121e19920621nyu079\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_051_01$2nyu-hidvl
 =024  7\$aHI2005.051_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13556759
-=035  9\$aNYUb13556759
-=035  9\$aNYUH13556759/14389345
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an------$as------
 =245  00$aBlood speaks$h[videorecording]
@@ -6541,9 +6361,6 @@
 =008  070523s1992\\\\ck\077\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_122_01$2nyu-hidvl
 =024  7\$aHI2006.122_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499649
-=035  9\$aNYUb13499649
-=035  9\$aNYUH13499649/14289652
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -6594,9 +6411,6 @@
 =024  7\$aHI2005_033_A_01$2nyu-hidvl
 =024  7\$aHI2005_033_B_01$2nyu-hidvl
 =024  7\$aHI2005.033_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13556239
-=035  9\$aNYUb13556239
-=035  9\$aNYUH13556239/14388453
 =040  \\$aNNU$cNNU$eamim
 =245  00$aGrandma, Grandpa, & The card game$h[videorecording]
 =246  3\$aLouis Mofsie & Gloria Miguel perform Hanay Geiogamah's Grandma, Grandpa, & The card game
@@ -6651,8 +6465,6 @@
 =024  7\$aHI2005_020_01$2nyu-hidvl
 =024  7\$aHI2005.020_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554535
-=035  9\$aNYUb13554535
-=035  9\$aNYUH13554535/14384666
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$dita
 =245  00$aTim Hays and Paula Poulafearh in concert$h[videorecording]
@@ -6701,8 +6513,6 @@
 =024  7\$aHI2007_016_01$2nyu-hidvl
 =024  7\$aHI2007.016_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502466
-=035  9\$aNYUb13502466
-=035  9\$aNYUH13502466/14294038
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---
 =245  00$aRe-cuentos y re-visiones$h[videorecording].
@@ -6750,8 +6560,6 @@
 =024  7\$aHI2007_017_01$2nyu-hidvl
 =024  7\$aHI2007.017_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502500
-=035  9\$aNYUb13502500
-=035  9\$aNYUH13502500/14294256
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$an-us-ma
@@ -6803,8 +6611,6 @@
 =024  7\$aHI2005_004_01$2nyu-hidvl
 =024  7\$aHI2005.004_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13056162
-=035  9\$aNYUb13056162
-=035  9\$aNYUH13056162/13702714
 =040  \\$aNNU$cNNU$eamim
 =245  00$aHot 'n' soft$h[videorecording].
 =246  3\$aHot and soft
@@ -6860,8 +6666,6 @@
 =024  7\$aHI2005_052_01$2nyu-hidvl
 =024  7\$aHI2005.052_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13557184
-=035  9\$aNYUb13557184
-=035  9\$aNYUH13557184/14390657
 =040  \\$aNNU$cNNU$eamim
 =245  00$aOur honor, our pride$h[videorecording]
 =260  \\$c1992 June.
@@ -6953,8 +6757,6 @@
 =024  7\$aHI2004_062_01$2nyu-hidvl
 =024  7\$aHI2004.062_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13051735
-=035  9\$aNYUb13051735
-=035  9\$aNYUH13051735/13691984
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$anah
 =245  00$aCielo de abajo (cabaret prehispánico)$h[videorecording].
@@ -7039,7 +6841,6 @@
 =024  7\$aHI2007_210_02$2nyu-hidvl
 =024  7\$aHI2007.210_02$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605780
-=035  9\$aNYUb13605780
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -7138,9 +6939,7 @@
 =008  070612e19920711nyu050\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_042_01$2nyu-hidvl
 =024  7\$aHI2007.042_01$2nyu-hidvl
-=035  9\$aNYUb13504323
 =035  \\$a(NYU)NYUb13504323
-=035  9\$aNYUH13504323/14297132
 =040  \\$aNNU$cNNU$eamim
 =245  00$aPeggy Shaw and Lois Weaver at Dixon Place$h[videorecording]
 =246  3\$aWeaver and Shaw at Dixon Place
@@ -7192,8 +6991,6 @@
 =024  7\$aHI2005_016_01$2nyu-hidvl
 =024  7\$aHI2005.016_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13553516
-=035  9\$aNYUb13553516
-=035  9\$aNYUH13553516/14383497
 =040  \\$aNNU$cNNU$eamim
 =245  00$aDrum lives$h[videorecording]
 =246  33$aNic Billey & Ben Geboe :$bDrum lives
@@ -7239,8 +7036,6 @@
 =024  7\$aHI2005_048_01$2nyu-hidvl
 =024  7\$aHI2005.048_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556706
-=035  9\$aNYUb13556706
-=035  9\$aNYUH13556706/14389217
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMoments in Tlalteuctli$h[videorecording]
 =246  3\$aCoatlicue Theater Company :$bMoments in Tlalteuctli
@@ -7291,9 +7086,6 @@
 =008  070517e19930630mx\018\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_104_01$2nyu-hidvl
 =024  7\$aHI2006.104_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497706
-=035  9\$aNYUb13497706
-=035  9\$aNYUH13497706/14286757
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  04$aUna mujer desesperada$h[videorecording].
@@ -7424,9 +7216,6 @@
 =024  7\$aHI2006_126_A_01$2nyu-hidvl
 =024  7\$aHI2006_126_B_01$2nyu-hidvl
 =024  7\$aHI2006.126_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499708
-=035  9\$aNYUb13499708
-=035  9\$aNYUH13499708/14289767
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us-ny
@@ -7525,8 +7314,6 @@
 =024  7\$aHI2005_005_01$2nyu-hidvl
 =024  7\$aHI2005.005_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13062180
-=035  9\$aNYUb13062180
-=035  9\$aNYUH13062180/13720328
 =040  \\$aNNU$cNNU$eamim
 =245  00$aWhite Eagle and Pura Fé sing Rudy Martin's songs$h[videorecording]
 =246  1\$iTitle on DVD cover and title screen:$aConcert duet, White Eagle and Purate [sic]
@@ -7577,8 +7364,6 @@
 =024  7\$aHI2005_062_B_01$2nyu-hidvl
 =024  7\$aHI2005.062_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507240
-=035  9\$aNYUb13507240
-=035  9\$aNYUH13507240/14301209
 =040  \\$aNNU$cNNU$eamim
 =245  00$aPower pipes$h[videorecording]
 =246  3\$aSpiderwoman Theater :$bPower pipes
@@ -7642,8 +7427,6 @@
 =008  071121s1993\\\\nyu048\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_039_01$2nyu-hidvl
 =024  7\$aHI2005.039_01$2nyu-hidvl
-=035  9\$aNYUb13556608
-=035  9\$aNYUH13556608/14389071
 =040  \\$aNNU$cNNU$eamim
 =245  00$aHot 'n' soft II$h[videorecording]
 =246  3\$aMuriel Miguel (Spiderwoman Theater) :$bHot 'n' soft II
@@ -7741,8 +7524,6 @@
 =024  7\$aHI2006_031_01$2nyu-hidvl
 =024  7\$aHI2006.031_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505414
-=035  9\$aNYUb13505414
-=035  9\$aNYUH13505414/14298772
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa$aque
 =043  \\$as-pe---
@@ -7788,9 +7569,6 @@
 =024  7\$aHI2004_058_01$2nyu-hidvl
 =024  7\$aHI2004_059_01$2nyu-hidvl
 =024  7\$aHI2004.058_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13049241
-=035  9\$aNYUb13049241
-=035  9\$aNYUH13049241/14291635
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -7851,9 +7629,7 @@
 =024  7\$aHI2007_048_A_01$2nyu-hidvl
 =024  7\$aHI2007_048_B_01$2nyu-hidvl
 =024  7\$aHI2007.048_01_A$2nyu-hidvl
-=035  9\$aNYUb13504816
 =035  \\$a(NYU)NYUb13504816
-=035  9\$aNYUH13504816/14297865
 =040  \\$aNNU$cNNU$eamim
 =245  00$aDress suits to hire$h[videorecording].
 =246  3\$aDress suits for hire
@@ -7907,9 +7683,7 @@
 =024  7\$aHI2007_060_A_01$2nyu-hidvl
 =024  7\$aHI2007_060_B_01$2nyu-hidvl
 =024  7\$aHI2007.060_01_A$2nyu-hidvl
-=035  9\$aNYUb13530634
 =035  \\$a(NYU)NYUb13530634
-=035  9\$aNYUH13530634/14340249
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-hi
 =245  00$aValley of the dolls house$h[videorecording]
@@ -8000,8 +7774,6 @@
 =024  7\$aHI2007_106_01$2nyu-hidvl
 =024  7\$aHI2007_107_01$2nyu-hidvl
 =024  7\$aHI2007.106_01$2nyu-hidvl
-=035  9\$aNYUb13531775
-=035  9\$aNYUH13531775/14342236
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$anah
 =245  03$aLa virgen del Tepeyac$h[videorecording]
@@ -8057,8 +7829,6 @@
 =024  7\$aHI2006_136_01$2nyu-hidvl
 =024  7\$aHI2006.136_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500443
-=035  9\$aNYUb13500443
-=035  9\$aNYUH13500443/14290835
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---$an-mx---$acl-----
@@ -8108,8 +7878,6 @@
 =024  7\$aHI2006_035_01$2nyu-hidvl
 =024  7\$aHI2006.035_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505333
-=035  9\$aNYUb13505333
-=035  9\$aNYUH13505333/14298651
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aGuayabo (taller de teatro)$h[videorecording].
@@ -8157,8 +7925,6 @@
 =024  7\$aHI2005_011_01$2nyu-hidvl
 =024  7\$aHI2005.011_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13267240
-=035  9\$aNYUb13267240
-=035  9\$aNYUH13267240/13964318
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMy ugly child$h[videorecording]
 =246  33$aAmerican Indian Youth Theater Project :$bMy ugly child
@@ -8251,8 +8017,6 @@
 =024  7\$aHI2006_148_01$2nyu-hidvl
 =024  7\$aHI2006.147_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500865
-=035  9\$aNYUb13500865
-=035  9\$aNYUH13500865/14291541
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -8343,8 +8107,6 @@
 =024  7\$aHI2005_070_01$2nyu-hidvl
 =024  7\$aHI2005.070_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507737
-=035  9\$aNYUb13507737
-=035  9\$aNYUH13507737/14301892
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us---
@@ -8398,9 +8160,6 @@
 =008  070620s1994\\\\nyu037\\\\\\\\\\\\vlmul\d
 =024  7\$aHI2005_071_01$2nyu-hidvl
 =024  7\$aHI2005.071_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13507792
-=035  9\$aNYUb13507792
-=035  9\$aNYUH13507792/14301977
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aNaftaztec TV$h[videorecording]
@@ -8450,8 +8209,6 @@
 =024  7\$aHI2005_041_01$2nyu-hidvl
 =024  7\$aHI2005.041_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556628
-=035  9\$aNYUb13556628
-=035  9\$aNYUH13556628/14389094
 =040  \\$aNNU$cNNU$eamim
 =245  00$aRudy Martin :$ba celebration of life, 1951-1993$h[videorecording].
 =246  3\$iTitle on DVD title screen:$aRuby [sic] Martin : a celebration of life 1951-1993
@@ -8496,8 +8253,6 @@
 =024  7\$aHI2005_018_01$2nyu-hidvl
 =024  7\$aHI2005.018_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554501
-=035  9\$aNYUb13554501
-=035  9\$aNYUH13554501/14384612
 =040  \\$aNNU$cNNU$eamim
 =245  00$aVoices from the criss-cross bridge$h[videorecording]
 =246  3\$iTitle on DVD cover and title screen:$aVoices from the criss cross bridge
@@ -8548,9 +8303,6 @@
 =008  070531s199406uunyu047\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_003_01$2nyu-hidvl
 =024  7\$aHI2007.003_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13501139
-=035  9\$aNYUb13501139
-=035  9\$aNYUH13501139/14291986
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aNY$h[videorecording] :$bground under.
@@ -8677,9 +8429,6 @@
 =008  070523e199409uuwlk062\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_123_01$2nyu-hidvl
 =024  7\$aHI2006.123_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499671
-=035  9\$aNYUb13499671
-=035  9\$aNYUH13499671/14289678
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -8732,9 +8481,6 @@
 =024  7\$aHI2004_042_A_01$2nyu-hidvl
 =024  7\$aHI2004_042_B_01$2nyu-hidvl
 =024  7\$aHI2004.042_01_A$2nyu-hidvl
-=035  9\$aNYUb12973090
-=035  \\$a(NYU)NYUb12973090
-=035  9\$aNYUH12973090/14291632
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -8797,8 +8543,6 @@
 =024  7\$aHI2007_196_01$2nyu-hidvl
 =024  7\$aHI2007.196_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541685
-=035  9\$aNYUb13541685
-=035  9\$aNYUH13541685/14361756
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aFábulas del Caribe$h[videorecording].
@@ -8849,8 +8593,6 @@
 =024  7\$aHI2005_095_01$2nyu-hidvl
 =024  7\$aHI2005.095_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13552837
-=035  9\$aNYUb13552837
-=035  9\$aNYUH13552837/14382360
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aHasta cuando corazón$h[videorecording]
@@ -8901,8 +8643,6 @@
 =024  7\$aHI2007.259_01_A$2nyu-hidvl
 =024  7\$aHI2007.259_01_B$2nyu-hidvl
 =035  \\$a(NYU)NYUb13612155
-=035  9\$aNYUb13612155
-=035  9\$aNYUH13612155/14489232
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$ager
 =079  \\$a(OCoLC)878606304
@@ -8958,9 +8698,7 @@
 =008  070612e19941022nmu054\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_045_01$2nyu-hidvl
 =024  7\$aHI2007.045_01$2nyu-hidvl
-=035  9\$aNYUb13504573
 =035  \\$a(NYU)NYUb13504573
-=035  9\$aNYUH13504573/14297558
 =040  \\$aNNU$cNNU$eamim
 =245  00$aYou're just like my father$h[videorecording].
 =246  3\$aYou are just like my father
@@ -9010,8 +8748,6 @@
 =024  7\$aHI2005_012_01$2nyu-hidvl
 =024  7\$aHI2005.012_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13553377
-=035  9\$aNYUb13553377
-=035  9\$aNYUH13553377/14383251
 =040  \\$aNNU$cNNU$eamim
 =245  00$aIsvael :$bNative American fetishes (fashion show)$h[videorecording].
 =246  3\$aIsvael :$bNative American fetish wear
@@ -9065,9 +8801,6 @@
 =024  7\$aHI2007_049_A_01$2nyu-hidvl
 =024  7\$aHI2007_049_B_01$2nyu-hidvl
 =024  7\$aHI2007.049_01_A$2nyu-hidvl
-=035  9\$aNYUb13504839
-=035  \\$a(NYU)NYUb13504839
-=035  9\$aNYUH13504839/14297905
 =040  \\$aNNU$cNNU$eamim
 =245  00$aLesbians who kill$h[videorecording].
 =260  \\$c1994 Oct. 28.
@@ -9121,9 +8854,6 @@
 =008  070523e19950328ck\039\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_119_01$2nyu-hidvl
 =024  7\$aHI2006.119_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499560
-=035  9\$aNYUb13499560
-=035  9\$aNYUH13499560/14289537
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -9180,8 +8910,6 @@
 =024  7\$aHI2007_197_01$2nyu-hidvl
 =024  7\$aHI2007.197_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541687
-=035  9\$aNYUb13541687
-=035  9\$aNYUH13541687/14361761
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$anwpr---
@@ -9239,9 +8967,7 @@
 =024  7\$aHI2007_066_01$2nyu-hidvl
 =024  7\$aHI2007_067_01$2nyu-hidvl
 =024  7\$aHI2007.066_01$2nyu-hidvl
-=035  9\$aNYUb13530688
 =035  \\$a(NYU)NYUb13530688
-=035  9\$aNYUH13530688/14340386
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aLa pastorela$h[videorecording]
@@ -9337,9 +9063,6 @@
 =024  7\$aHI2005_046_A_01$2nyu-hidvl
 =024  7\$aHI2005_046_B_01$2nyu-hidvl
 =024  7\$aHI2005.046_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13556669
-=035  9\$aNYUb13556669
-=035  9\$aNYUH13556669/14389166
 =040  \\$aNNU$cNNU$eamim
 =245  00$aIndian Summer '95 :$bOpen wounds Tlalteuctli & In the spirit$h[videorecording].
 =246  3\$aOpen wounds Tlalteuctli (Coatlicue Theater Company)
@@ -9464,8 +9187,6 @@
 =024  7\$aHI2005_024_01$2nyu-hidvl
 =024  7\$aHI2005.024_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554561
-=035  9\$aNYUb13554561
-=035  9\$aNYUH13554561/14384736
 =040  \\$aNNU$cNNU$eamim
 =245  00$aIn the essence$h[videorecording]
 =246  33$aChuka Lokoli Theater :$bIn the essence
@@ -9518,9 +9239,6 @@
 =024  7\$aHI2005_040_A_01$2nyu-hidvl
 =024  7\$aHI2005_040_B_01$2nyu-hidvl
 =024  7\$aHI2005.040_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13556619
-=035  9\$aNYUb13556619
-=035  9\$aNYUH13556619/14389087
 =040  \\$aNNU$cNNU$eamim
 =245  00$aIndian 101 & Ulali$h[videorecording]
 =246  3\$aIndian Summer '95 :$bAmerican Indian Youth Theater Project ('Indian 101') & Ulali
@@ -9582,9 +9300,6 @@
 =008  070606s1995\\\\pr\044\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_022_01$2nyu-hidvl
 =024  7\$aHI2007.022_01$2nyu-hidvl
-=035  9\$aNYUb13502649
-=035  \\$a(NYU)NYUb13502649
-=035  9\$aNYUH13502649/14294403
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---
 =245  00$aAcceso controlado$h[videorecording].
@@ -9678,9 +9393,7 @@
 =008  070606s1995\\\\mau006\\\\\\\\\\\\vlmul\d
 =024  7\$aHI2007_018_01$2nyu-hidvl
 =024  7\$aHI2007.018_01$2nyu-hidvl
-=035  9\$aNYUb13502558
 =035  \\$a(NYU)NYUb13502558
-=035  9\$aNYUH13502558/14294250
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$anwpr---
@@ -9739,8 +9452,6 @@
 =024  7\$aHI2007_100_01$2nyu-hidvl
 =024  7\$aHI2007.098_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13531713
-=035  9\$aNYUb13531713
-=035  9\$aNYUH13531713/14342138
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -9805,8 +9516,6 @@
 =024  7\$aHI2007.001_01$2nyu-hidvl
 =024  7\$aHI2007.002_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13501136
-=035  9\$aNYUb13501136
-=035  9\$aNYUH13501136/14291981
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aNY$h[videorecording] :$bground under II.
@@ -9877,9 +9586,7 @@
 =024  7\$aHI2007_040_A_01$2nyu-hidvl
 =024  7\$aHI2007_040_B_01$2nyu-hidvl
 =024  7\$aHI2007.040_01_A$2nyu-hidvl
-=035  9\$aNYUb13504252
 =035  \\$a(NYU)NYUb13504252
-=035  9\$aNYUH13504252/14297041
 =040  \\$aNNU$cNNU$eamim
 =245  00$aLust and comfort$h[videorecording].
 =260  \\$c1995 May 11.
@@ -9934,8 +9641,6 @@
 =024  7\$aHI2005_025_01$2nyu-hidvl
 =024  7\$aHI2005.025_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554601
-=035  9\$aNYUb13554601
-=035  9\$aNYUH13554601/14384797
 =040  \\$aNNU$cNNU$eamim
 =245  00$aGohmaaz$h[videorecording].
 =246  33$aAmanda Old Crow :$bGohmaaz
@@ -9990,8 +9695,6 @@
 =024  7\$aHI2005_045_B_01$2nyu-hidvl
 =024  7\$aHI2005.045_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556662
-=035  9\$aNYUb13556662
-=035  9\$aNYUH13556662/14389154
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aIroquois social$h[videorecording]
@@ -10046,8 +9749,6 @@
 =024  7\$aHI2006_054_01$2nyu-hidvl
 =024  7\$aHI2006.054_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500838
-=035  9\$aNYUb13500838
-=035  9\$aNYUH13500838/14291484
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  00$aJuicio a Salinas$h[videorecording].
@@ -10096,8 +9797,6 @@
 =024  7\$aHI2006_039_01$2nyu-hidvl
 =024  7\$aHI2006.039_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505206
-=035  9\$aNYUb13505206
-=035  9\$aNYUH13505206/14298433
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  00$a5to aniversario de El Hábito$h[videorecording].
@@ -10144,9 +9843,6 @@
 =008  041027e199512uumx\075\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_041_01$2nyu-hidvl
 =024  7\$aHI2004.041_01$2nyu-hidvl
-=035  9\$aNYUb12971782
-=035  \\$a(NYU)NYUb12971782
-=035  9\$aNYUH12971782/13573537
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -10197,9 +9893,6 @@
 =008  071113s1995\\\\pe\073\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2005_098_01$2nyu-hidvl
 =024  7\$aHI2005.098_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13552961
-=035  9\$aNYUb13552961
-=035  9\$aNYUH13552961/14382540
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aSerenata$h[videorecording]
@@ -10257,8 +9950,6 @@
 =024  7\$aHI2007.257_01_A$2nyu-hidvl
 =024  7\$aHI2007.257_01_B$2nyu-hidvl
 =035  \\$a(NYU)NYUb13611625
-=035  9\$aNYUb13611625
-=035  9\$aNYUH13611625/14488505
 =040  \\$aNNU$cNNU$eamim
 =041  0\$achi
 =079  \\$a(OCoLC)878606342
@@ -10311,7 +10002,6 @@
 =024  7\$aHI2007_210_03$2nyu-hidvl
 =024  7\$aHI2007.210_03$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605784
-=035  9\$aNYUb13605784
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -10540,9 +10230,6 @@
 =008  070619e19961104nyu067\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_061_01$2nyu-hidvl
 =024  7\$aHI2005.061_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13507195
-=035  9\$aNYUb13507195
-=035  9\$aNYUH13507195/14301152
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMore than feathers and beads$h[videorecording]
 =246  3\$aMurielle Borst :$bMore than feathers and beads
@@ -10591,9 +10278,6 @@
 =008  071004e199606uuxx\060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_198_01$2nyu-hidvl
 =024  7\$aHI2007.198_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13541693
-=035  9\$aNYUb13541693
-=035  9\$aNYUH13541693/14361772
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$anwpr---$an-us---
@@ -10651,8 +10335,6 @@
 =024  7\$aHI2005_049_01$2nyu-hidvl
 =024  7\$aHI2005.049_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556733
-=035  9\$aNYUb13556733
-=035  9\$aNYUH13556733/14389270
 =040  \\$aNNU$cNNU$eamim
 =245  02$aA traditional kind of woman :$btoo much, not 'nuff$h[videorecording].
 =246  3\$aCoatlicue Theater Company :$bA traditional kind of woman : too much, not 'nuff
@@ -10705,9 +10387,6 @@
 =008  071127s1996\\\\mau058\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_054_01$2nyu-hidvl
 =024  7\$aHI2005.054_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13557239
-=035  9\$aNYUb13557239
-=035  9\$aNYUH13557239/14390775
 =040  \\$aNNU$cNNU$eamim
 =245  00$aChicomoztoc-mimixcoa$h[videorecording] :$bcloud serpents (work-in-progress, 1996).
 =246  3\$aCoatlicue Theater Company :$bChicomoztoc-mimixcoa : cloud serpents (work-in-progress, 1996)
@@ -10761,9 +10440,6 @@
 =024  7\$aHI2005_010_01$2nyu-hidvl
 =024  7\$aHI2005.009_01$2nyu-hidvl
 =024  7\$aHI2005.010_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13069187
-=035  9\$aNYUb13069187
-=035  9\$aNYUH13069187/13733222
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny$an------$an-us---
 =245  00$aHigh steel and corn meal :$brecounting an era : the Mohawk ironworker community in Brooklyn$h[videorecording]
@@ -10823,9 +10499,6 @@
 =008  071120e19960610nyu086\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_030_01$2nyu-hidvl
 =024  7\$aHI2005.030_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13555983
-=035  9\$aNYUb13555983
-=035  9\$aNYUH13555983/14387986
 =040  \\$aNNU$cNNU$eamim
 =245  00$a11th Annual Native American Actor's Showcase$h[videorecording].
 =246  3\$aEleventh Annual Native American Actor's Showcase
@@ -10912,8 +10585,6 @@
 =024  7\$aHI2005_064_01$2nyu-hidvl
 =024  7\$aHI2005.064_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507516
-=035  9\$aNYUb13507516
-=035  9\$aNYUH13507516/14301561
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us---
@@ -10971,8 +10642,6 @@
 =024  7\$aHI2005_065_B_01$2nyu-hidvl
 =024  7\$aHI2005.065_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507558
-=035  9\$aNYUb13507558
-=035  9\$aNYUH13507558/14301631
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us---
@@ -11033,9 +10702,6 @@
 =024  7\$aHI2005_069_A_01$2nyu-hidvl
 =024  7\$aHI2005_069_B_01$2nyu-hidvl
 =024  7\$aHI2005.069_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13507692
-=035  9\$aNYUb13507692
-=035  9\$aNYUH13507692/14301833
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aMexican cowboys and Indian lowriders$h[videorecording]
@@ -11097,9 +10763,6 @@
 =008  071101s1996\\\\dcu080\\\\\\\\\\\\vlmul\d
 =024  7\$aHI2005_075_01$2nyu-hidvl
 =024  7\$aHI2005.075_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13549029
-=035  9\$aNYUb13549029
-=035  9\$aNYUH13549029/14375947
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us---$an-us-dc
@@ -11153,8 +10816,6 @@
 =024  7\$aHI2005_042_01$2nyu-hidvl
 =024  7\$aHI2005.042_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556636
-=035  9\$aNYUb13556636
-=035  9\$aNYUH13556636/14389111
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNative America :$bThunderbird American Indian Dancers & Indigenous$h[videorecording].
 =246  30$aThunderbird American Indian Dancers & Indigenous
@@ -11207,9 +10868,6 @@
 =008  071127e19961118nyu030\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_059_01$2nyu-hidvl
 =024  7\$aHI2005.059_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13557419
-=035  9\$aNYUb13557419
-=035  9\$aNYUH13557419/14390997
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNative America$h[videorecording] :$bUlali & the SilverCloud Singers.
 =246  30$aUlali & the SilverCloud Singers
@@ -11307,9 +10965,6 @@
 =024  7\$aHI2006_102_A_01$2nyu-hidvl
 =024  7\$aHI2006_102_B_01$2nyu-hidvl
 =024  7\$aHI2006.102_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497660
-=035  9\$aNYUb13497660
-=035  9\$aNYUH13497660/14286675
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aspa$aeng$hspa$heng
 =245  00$aMigración$h[videorecording].
@@ -11467,8 +11122,6 @@
 =024  7\$aHI2005_053_01$2nyu-hidvl
 =024  7\$aHI2005.053_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13557205
-=035  9\$aNYUb13557205
-=035  9\$aNYUH13557205/14390720
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNative America :$bSilverCloud Singers & Thunderbird American Indian Dancers$h[videorecording].
 =246  30$aSilverCloud Singers & Thunderbird American Indian Dancers
@@ -11526,8 +11179,6 @@
 =024  7\$aHI2005_031_B_01$2nyu-hidvl
 =024  7\$aHI2005.031_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556060
-=035  9\$aNYUb13556060
-=035  9\$aNYUH13556060/14388176
 =040  \\$aNNU$cNNU$eamim
 =245  04$aThe AICH variety show$h[videorecording].
 =260  \\$c1996 June 10.
@@ -11593,8 +11244,6 @@
 =024  7\$aHI2007.006_01$2nyu-hidvl
 =024  7\$aHI2007.007_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502230
-=035  9\$aNYUb13502230
-=035  9\$aNYUH13502230/14293703
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny$an-us---
 =245  00$aMoney amok$h[videorecording].
@@ -11647,9 +11296,6 @@
 =008  050824e19960420nyu054\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_007_01$2nyu-hidvl
 =024  7\$aHI2005.007_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13068963
-=035  9\$aNYUb13068963
-=035  9\$aNYUH13068963/13732968
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an------
 =245  00$aJohnny Moses at AICH :$bchildren's stories$h[videorecording].
@@ -11699,9 +11345,6 @@
 =008  050824e19960420nyu094\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_008_01$2nyu-hidvl
 =024  7\$aHI2005.008_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13069141
-=035  9\$aNYUb13069141
-=035  9\$aNYUH13069141/13733152
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an------
 =245  00$aJohnny Moses at AICH :$bstories for adults$h[videorecording].
@@ -11751,8 +11394,6 @@
 =024  7\$aHI2005_019_01$2nyu-hidvl
 =024  7\$aHI2005.019_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554513
-=035  9\$aNYUb13554513
-=035  9\$aNYUH13554513/14384629
 =040  \\$aNNU$cNNU$eamim
 =245  00$aDaughters from the stars :$bNis Bundor$h[videorecording]
 =246  33$aSpiderwoman Theater :$bDaughters from the stars
@@ -11806,8 +11447,6 @@
 =024  7\$aHI2006_033_01$2nyu-hidvl
 =024  7\$aHI2006.033_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505385
-=035  9\$aNYUb13505385
-=035  9\$aNYUH13505385/14298729
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aPrimera cena$h[videorecording].
@@ -11901,10 +11540,6 @@
 =024  7\$aHI2004_034_01$2nyu-hidvl
 =024  7\$aHI2004.034_01$2nyu-hidvl
 =024  7\$aHI2004.034_01$2nyu-hidvl
-=035  9\$aNYUb12920635
-=035  \\$a(NYU)NYUb12920635
-=035  9\$aNYUH12920635/13497926
-=035  9\$aNYUH12920635/13497927
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -11956,10 +11591,6 @@
 =024  7\$aHI2004_035_01$2nyu-hidvl
 =024  7\$aHI2004.035_01$2nyu-hidvl
 =024  7\$aHI2004.035_01$2nyu-hidvl
-=035  9\$aNYUb12927179
-=035  \\$a(NYU)NYUb12927179
-=035  9\$aNYUH12927179/13505291
-=035  9\$aNYUH12927179/13505292
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa---
 =043  \\$an-mx---
@@ -12011,8 +11642,6 @@
 =024  7\$aHI2005_021_B_01$2nyu-hidvl
 =024  7\$aHI2005.021_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13554544
-=035  9\$aNYUb13554544
-=035  9\$aNYUH13554544/14384694
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNative performance art$h[videorecording].
 =246  1\$iTitle on DVD title screen:$aChan, Elmm [sic] Romero y Miguel
@@ -12209,9 +11838,7 @@
 =008  070829e19960504cau056\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_074_01$2nyu-hidvl
 =024  7\$aHI2007.074_01$2nyu-hidvl
-=035  9\$aNYUb13530718
 =035  \\$a(NYU)NYUb13530718
-=035  9\$aNYUH13530718/14340473
 =040  \\$aNNU$cNNU$eamim
 =245  00$aUbu roi$h[videorecording]
 =246  33$aUbu roi (rehearsal)
@@ -12258,9 +11885,6 @@
 =024  7\$aHI2007_019_B_01$2nyu-hidvl
 =024  7\$aHI2007.019_01_A$2nyu-hidvl
 =024  7\$aHI2007.019_01_B$2nyu-hidvl
-=035  \\$a(NYU)NYUb13502591
-=035  9\$aNYUb13502591
-=035  9\$aNYUH13502591/14294296
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---$acl-----
 =245  00$aJardín de pulpos$h[videorecording].
@@ -12316,8 +11940,6 @@
 =024  7\$aHI2005_058_B_01$2nyu-hidvl
 =024  7\$aHI2005.058_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13557384
-=035  9\$aNYUb13557384
-=035  9\$aNYUH13557384/14390967
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInti-Raymi :$bFestival of the sun$h[videorecording]
 =246  30$aFestival of the sun
@@ -12372,8 +11994,6 @@
 =024  7\$aHI2005_043_01$2nyu-hidvl
 =024  7\$aHI2005.043_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556640
-=035  9\$aNYUb13556640
-=035  9\$aNYUH13556640/14389118
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNative America :$bSpiderwoman Theater : Sun, moon, and feather$h[videorecording].
 =246  30$aSpiderwoman Theater :$bSun, moon, and feather
@@ -12421,8 +12041,6 @@
 =007  vd\cvaizu
 =008  080418s1997\\\\ag\048\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_220_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13605908
-=035  9\$aNYUb13605908
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -12477,9 +12095,6 @@
 =008  070523e19971128ck\059\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_127_01$2nyu-hidvl
 =024  7\$aHI2006.127_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499748
-=035  9\$aNYUb13499748
-=035  9\$aNYUH13499748/14289791
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-ck---$af------
 =245  00$aGuinnaru$h[videorecording].
@@ -12525,9 +12140,6 @@
 =008  070529e199711uuck\057\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_132_01$2nyu-hidvl
 =024  7\$aHI2006.132_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13500393
-=035  9\$aNYUb13500393
-=035  9\$aNYUH13500393/14290765
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---$acl-----
@@ -12576,8 +12188,6 @@
 =024  7\$aHI2007_119_01$2nyu-hidvl
 =024  7\$aHI2007.119_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13532085
-=035  9\$aNYUb13532085
-=035  9\$aNYUH13532085/14342768
 =040  \\$aNNU$cNNU$eamim
 =245  00$aButch Fashion Show in the femme auto body shop$h[videorecording].
 =246  3\$aButch fashion in the femme auto body shop
@@ -12631,8 +12241,6 @@
 =024  7\$aHI2005_017_01$2nyu-hidvl
 =024  7\$aHI2005.017_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13553542
-=035  9\$aNYUb13553542
-=035  9\$aNYUH13553542/14383530
 =040  \\$aNNU$cNNU$eamim
 =245  00$aHugh Danforth & Toni Tsatoke :$bwinter stories (49ers elders luncheon)$h[videorecording]
 =246  3\$aHugh Danforth and Toni Tsatoke :$bwinter stories
@@ -12678,9 +12286,6 @@
 =008  070523e199703uuck\052\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_121_01$2nyu-hidvl
 =024  7\$aHI2006.121_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499619
-=035  9\$aNYUb13499619
-=035  9\$aNYUH13499619/14289621
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -12738,8 +12343,6 @@
 =024  7\$aHI2006_139_B_01$2nyu-hidvl
 =024  7\$aHI2006.139_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500536
-=035  9\$aNYUb13500536
-=035  9\$aNYUH13500536/14290973
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -12792,9 +12395,6 @@
 =024  7\$aHI2005_076_A_01$2nyu-hidvl
 =024  7\$aHI2005_076_B_01$2nyu-hidvl
 =024  7\$aHI2005.076_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13549036
-=035  9\$aNYUb13549036
-=035  9\$aNYUH13549036/14375957
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us---$an-us-ca
@@ -12852,9 +12452,6 @@
 =008  071120e19970814nyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_029_01$2nyu-hidvl
 =024  7\$aHI2005.029_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13555916
-=035  9\$aNYUb13555916
-=035  9\$aNYUH13555916/14387840
 =040  \\$aNNU$cNNU$eamim
 =245  04$aThe Jones Benally Family :$ba traditional night of Navajo dancing$h[videorecording]
 =260  \\$c1997 Aug. 14.
@@ -12944,8 +12541,6 @@
 =008  071120e19970517nyu074\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_035_01$2nyu-hidvl
 =024  7\$aHI2005.035_01$2nyu-hidvl
-=035  9\$aNYUb13556341
-=035  9\$aNYUH13556341/14388610
 =040  \\$aNNU$cNNU$eamim
 =043  \\$au-at---
 =245  00$aDoonooch Aboriginal Dancers$h[videorecording]
@@ -12994,8 +12589,6 @@
 =024  7\$aHI2007_104_01$2nyu-hidvl
 =024  7\$aHI2007.101_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13531731
-=035  9\$aNYUb13531731
-=035  9\$aNYUH13531731/14342179
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -13061,8 +12654,6 @@
 =024  7\$aHI2007_182_03$2nyu-hidvl
 =024  7\$aHI2007.182_03$2nyu-hidvl
 =035  \\$a(NYU)NYUb13542413
-=035  9\$aNYUb13542413
-=035  9\$aNYUH13542413/14367406
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwcu---
@@ -13116,9 +12707,6 @@
 =008  041029e199705uumx\093\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_043_01$2nyu-hidvl
 =024  7\$aHI2004.043_01$2nyu-hidvl
-=035  9\$aNYUb12973115
-=035  \\$a(NYU)NYUb12973115
-=035  9\$aNYUH12973115/13573546
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---$as-ag---
@@ -13172,9 +12760,6 @@
 =008  041029s1997\\\\mx\093\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_047_01$2nyu-hidvl
 =024  7\$aHI2004.047_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb12973270
-=035  9\$aNYUb12973270
-=035  9\$aNYUH12973270/13573557
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -13231,9 +12816,6 @@
 =008  041029s1997\\\\mx\012\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_048_01$2nyu-hidvl
 =024  7\$aHI2004.048_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb12973279
-=035  9\$aNYUb12973279
-=035  9\$aNYUH12973279/13573560
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -13300,8 +12882,6 @@
 =024  7\$aHI2007.253_01$2nyu-hidvl
 =024  7\$aHI2007.254_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610632
-=035  9\$aNYUb13610637
-=035  9\$aNYUH13610637/14486763
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$arus
 =079  \\$a(OCoLC)878606470
@@ -13357,9 +12937,6 @@
 =024  7\$aHI2007_031_A_01$2nyu-hidvl
 =024  7\$aHI2007_031_B_01$2nyu-hidvl
 =024  7\$aHI2007.031_01_A$2nyu-hidvl
-=035  9\$aNYUb13502999
-=035  \\$a(NYU)NYUb13502999
-=035  9\$aNYUH13502999/14295212
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwcu---$acl-----
 =245  00$aOtra tempestad$h[videorecording].
@@ -13415,9 +12992,7 @@
 =024  7\$aHI2007_081_01$2nyu-hidvl
 =024  7\$aHI2007_082_01$2nyu-hidvl
 =024  7\$aHI2007.081_01$2nyu-hidvl
-=035  9\$aNYUb13530822
 =035  \\$a(NYU)NYUb13530822
-=035  9\$aNYUH13530822/14340694
 =040  \\$aNNU$cNNU$eamim
 =245  04$aThe cenci$h[videorecording]
 =260  \\$c1997.
@@ -13518,9 +13093,6 @@
 =008  070516s1997\\\\mx\055\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_096_01$2nyu-hidvl
 =024  7\$aHI2006.096_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497506
-=035  9\$aNYUb13497506
-=035  9\$aNYUH13497506/14286390
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -13572,9 +13144,6 @@
 =008  070516e199706uumx\033\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_099_01$2nyu-hidvl
 =024  7\$aHI2006.099_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497578
-=035  9\$aNYUb13497578
-=035  9\$aNYUH13497578/14286497
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =079  \\$a(OCoLC)475457168
@@ -13745,8 +13314,6 @@
 =007  vd\cvaizu
 =008  080418s1998\\\\ag\050\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_221_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13605920
-=035  9\$aNYUb13605920
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -13797,9 +13364,6 @@
 =008  070517s1998\\\\xxu012\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_105_04$2nyu-hidvl
 =024  7\$aHI2006.105_04$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497822
-=035  9\$aNYUb13497822
-=035  9\$aNYUH13497822/14286967
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---$an-mx---
 =245  04$aThe chain south$h[videorecording].
@@ -13853,9 +13417,6 @@
 =008  070508e199810uunyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_067_01$2nyu-hidvl
 =024  7\$aHI2006.067_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494845
-=035  9\$aNYUb13494845
-=035  9\$aNYUH13494845/14282123
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aRats, the fantasy of extermination$h[videorecording].
@@ -13961,8 +13522,6 @@
 =024  7\$aHI2005_100_01$2nyu-hidvl
 =024  7\$aHI2005.100_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13553033
-=035  9\$aNYUb13553033
-=035  9\$aNYUH13553033/14382641
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aPersistencia de la memoria$h[videorecording].
@@ -14012,8 +13571,6 @@
 =024  7\$aHI2005_068_01$2nyu-hidvl
 =024  7\$aHI2005.068_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507630
-=035  9\$aNYUb13507630
-=035  9\$aNYUH13507630/14301739
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  04$aThe mexterminator$h[videorecording]
@@ -14068,8 +13625,6 @@
 =024  7\$aHI2006_137_01$2nyu-hidvl
 =024  7\$aHI2006.137_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500457
-=035  9\$aNYUb13500457
-=035  9\$aNYUH13500457/14290853
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aeng$aspa
 =043  \\$an-us-ny
@@ -14123,9 +13678,6 @@
 =008  071212e19980612nyu056\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_038_01$2nyu-hidvl
 =024  7\$aHI2005.038_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13561649
-=035  9\$aNYUb13561649
-=035  9\$aNYUH13561649/14399859
 =040  \\$aNNU$cNNU$eamim
 =079  \\$a(OCoLC)184823296
 =245  00$aOld man Kokopelli$h[videorecording].
@@ -14176,9 +13728,7 @@
 =024  7\$aHI2007_032_01$2nyu-hidvl
 =024  7\$aHI2007_033_01$2nyu-hidvl
 =024  7\$aHI2007.032_01$2nyu-hidvl
-=035  9\$aNYUb13503010
 =035  \\$a(NYU)NYUb13503010
-=035  9\$aNYUH13503010/14295230
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwcu---$acl-----
 =245  00$aOtra tempestad$h[videorecording].
@@ -14285,8 +13835,6 @@
 =024  7\$aHI2007_005_01$2nyu-hidvl
 =024  7\$aHI2007.005_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502227
-=035  9\$aNYUb13502227
-=035  9\$aNYUH13502227/14293693
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aQuality of life$h[videorecording].
@@ -14338,9 +13886,6 @@
 =024  7\$aHI2004_038_01$2nyu-hidvl
 =024  7\$aHI2004_039_01$2nyu-hidvl
 =024  7\$aHI2004.038_01$2nyu-hidvl
-=035  9\$aNYUb12927543
-=035  \\$a(NYU)NYUb12927543
-=035  9\$aNYUH12927543/14291631
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -14396,9 +13941,6 @@
 =008  040728s1998\\\\mx\011\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_040_01$2nyu-hidvl
 =024  7\$aHI2004.040_01$2nyu-hidvl
-=035  9\$aNYUb12927544
-=035  \\$a(NYU)NYUb12927544
-=035  9\$aNYUH12927544/13505868
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -14450,9 +13992,6 @@
 =008  041029s1998\\\\mx\056\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_044_01$2nyu-hidvl
 =024  7\$aHI2004.044_01$2nyu-hidvl
-=035  9\$aNYUb12973136
-=035  \\$a(NYU)NYUb12973136
-=035  9\$aNYUH12973136/13573549
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -14500,9 +14039,6 @@
 =008  041029s1998\\\\mx\013\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_045_01$2nyu-hidvl
 =024  7\$aHI2004.045_01$2nyu-hidvl
-=035  9\$aNYUb12973213
-=035  \\$a(NYU)NYUb12973213
-=035  9\$aNYUH12973213/13573551
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -14550,9 +14086,6 @@
 =008  041029s1998\\\\mx\014\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_046_01$2nyu-hidvl
 =024  7\$aHI2004.046_01$2nyu-hidvl
-=035  9\$aNYUb12973221
-=035  \\$a(NYU)NYUb12973221
-=035  9\$aNYUH12973221/13573555
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -14601,9 +14134,7 @@
 =008  070612e19981205nyu053\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_046_01$2nyu-hidvl
 =024  7\$aHI2007.046_01$2nyu-hidvl
-=035  9\$aNYUb13504712
 =035  \\$a(NYU)NYUb13504712
-=035  9\$aNYUH13504712/14297726
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMenopausal gentleman$h[videorecording].
 =260  \\$c1998 Dec. 5.
@@ -14654,9 +14185,6 @@
 =024  7\$aHI2007_062_01$2nyu-hidvl
 =024  7\$aHI2007_063_01$2nyu-hidvl
 =024  7\$aHI2007.061_01$2nyu-hidvl
-=035  9\$aNYUb13530649
-=035  \\$a(NYU)NYUb13530649
-=035  9\$aNYUH13530649/14340269
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us-ca
@@ -14713,9 +14241,7 @@
 =024  7\$aHI2007_043_A_01$2nyu-hidvl
 =024  7\$aHI2007_043_B_01$2nyu-hidvl
 =024  7\$aHI2007.043_01_A$2nyu-hidvl
-=035  9\$aNYUb13504631
 =035  \\$a(NYU)NYUb13504631
-=035  9\$aNYUH13504631/14297629
 =040  \\$aNNU$cNNU$eamim
 =245  00$aSalad of the Bad Café$h[videorecording].
 =246  3\$aSalad of the Bad Café (1998)
@@ -14773,9 +14299,7 @@
 =008  070508e199806uunyu074\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_058_01$2nyu-hidvl
 =024  7\$aHI2007.058_01$2nyu-hidvl
-=035  9\$aNYUb13530613
 =035  \\$a(NYU)NYUb13530613
-=035  9\$aNYUH13530613/14340202
 =040  \\$aNNU$cNNU$eamim
 =245  00$aLittle women$h[videorecording]
 =246  3\$aLittle women (June 1998)
@@ -14823,9 +14347,7 @@
 =008  070508e19981203nyu077\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_059_01$2nyu-hidvl
 =024  7\$aHI2007.059_01$2nyu-hidvl
-=035  9\$aNYUb13530623
 =035  \\$a(NYU)NYUb13530623
-=035  9\$aNYUH13530623/14340220
 =040  \\$aNNU$cNNU$eamim
 =245  00$aLittle women$h[videorecording] :$bthe tragedy.
 =246  3\$aLittle women (Dec. 3, 1998)
@@ -14872,9 +14394,6 @@
 =008  070516s1998\\\\mx\041\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_100_01$2nyu-hidvl
 =024  7\$aHI2006.100_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497599
-=035  9\$aNYUb13497599
-=035  9\$aNYUH13497599/14286528
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -14924,8 +14443,6 @@
 =024  7\$aHI2005_060_01$2nyu-hidvl
 =024  7\$aHI2005.060_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13557443
-=035  9\$aNYUb13557443
-=035  9\$aNYUH13557443/14391041
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-ec---
 =245  00$aSacha huarmi$h[videorecording]
@@ -15049,9 +14566,6 @@
 =008  070515e19990807ck\060\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_084_01$2nyu-hidvl
 =024  7\$aHI2006.084_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497028
-=035  9\$aNYUb13497028
-=035  9\$aNYUH13497028/14285546
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -15101,9 +14615,6 @@
 =024  7\$aHI2006_089_01$2nyu-hidvl
 =024  7\$aHI2006_090_01$2nyu-hidvl
 =024  7\$aHI2006.089_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497276
-=035  9\$aNYUb13497276
-=035  9\$aNYUH13497276/14285972
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -15157,9 +14668,6 @@
 =024  7\$aHI2006_074_01$2nyu-hidvl
 =024  7\$aHI2006_075_01$2nyu-hidvl
 =024  7\$aHI2006.073_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13495159
-=035  9\$aNYUb13495159
-=035  9\$aNYUH13495159/14283032
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -15212,9 +14720,6 @@
 =008  070523e199912uuck\078\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_128_01$2nyu-hidvl
 =024  7\$aHI2006.128_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499765
-=035  9\$aNYUb13499765
-=035  9\$aNYUH13499765/14289813
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---$anwht---
@@ -15262,9 +14767,6 @@
 =008  070515e19990828ck\023\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_085_01$2nyu-hidvl
 =024  7\$aHI2006.085_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497246
-=035  9\$aNYUb13497246
-=035  9\$aNYUH13497246/14285903
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -15355,8 +14857,6 @@
 =024  7\$aHI2005_056_01$2nyu-hidvl
 =024  7\$aHI2005.056_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13557316
-=035  9\$aNYUb13557316
-=035  9\$aNYUH13557316/14390877
 =040  \\$aNNU$cNNU$eamim
 =245  00$aCoatlicue Theater Company$h[videorecording] :$bstorytelling, playwriting, theater workshops.
 =246  1\$iTitle on DVD menu screen:$aStorytelling, playwriting theater workshop
@@ -15405,8 +14905,6 @@
 =024  7\$aHI2005_057_01$2nyu-hidvl
 =024  7\$aHI2005.057_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13557353
-=035  9\$aNYUb13557353
-=035  9\$aNYUH13557353/14390925
 =040  \\$aNNU$cNNU$eamim
 =245  00$aCoatlicue Theater excerpts$h[videorecording] :$bOpen wounds, Coyolxauhqui, Traditional kind of woman, & Huipil.
 =246  1\$iTitle on DVD cover and title screen:$aCoatlicue Theater excerpts
@@ -15459,9 +14957,6 @@
 =008  070508e199909uunyu054\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_068_01$2nyu-hidvl
 =024  7\$aHI2006.068_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494882
-=035  9\$aNYUb13494882
-=035  9\$aNYUH13494882/14282180
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aHot tamale$h[videorecording].
@@ -15514,8 +15009,6 @@
 =024  7\$aHI2005_034_01$2nyu-hidvl
 =024  7\$aHI2005.034_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556282
-=035  9\$aNYUb13556282
-=035  9\$aNYUH13556282/14388514
 =040  \\$aNNU$cNNU$eamim
 =245  04$aThe fifth sun$h[videorecording].
 =246  3\$aD'zul Dance Company & the Michael Taylor Dance Company :$bThe fifth sun
@@ -15569,9 +15062,6 @@
 =024  7\$aHI2006_094_01$2nyu-hidvl
 =024  7\$aHI2006.094_01$2nyu-hidvl
 =024  7\$aHI2006.093_02$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497337
-=035  9\$aNYUb13497337
-=035  9\$aNYUH13497337/14286064
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -15629,9 +15119,6 @@
 =024  7\$aHI2006_082_03$2nyu-hidvl
 =024  7\$aHI2006_083_01$2nyu-hidvl
 =024  7\$aHI2006.082_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497230
-=035  9\$aNYUb13497230
-=035  9\$aNYUH13497230/14286177
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -15685,9 +15172,6 @@
 =008  070508s1999\\\\cau089\\\\\\\\\\\\vlmul\d
 =024  7\$aHI2005_074_01$2nyu-hidvl
 =024  7\$aHI2005.074_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13549021
-=035  9\$aNYUb13549021
-=035  9\$aNYUH13549021/14375866
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us---$an-mx---
@@ -15743,9 +15227,7 @@
 =008  070606e19990509pr\062\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_023_01$2nyu-hidvl
 =024  7\$aHI2007.023_01$2nyu-hidvl
-=035  9\$aNYUb13502662
 =035  \\$a(NYU)NYUb13502662
-=035  9\$aNYUH13502662/14294430
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---
 =245  03$aLa nostalgia del quinqué$h[videorecording]
@@ -15796,9 +15278,7 @@
 =008  070606s1999\\\\pr\022\\\\\\\\\\\\vlund\d
 =024  7\$aHI2007_025_01$2nyu-hidvl
 =024  7\$aHI2007.025_01$2nyu-hidvl
-=035  9\$aNYUb13502680
 =035  \\$a(NYU)NYUb13502680
-=035  9\$aNYUH13502680/14294493
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aund$bspa
 =043  \\$anwpr---
@@ -15855,9 +15335,6 @@
 =024  7\$aHI2006_087_01$2nyu-hidvl
 =024  7\$aHI2006_088_01$2nyu-hidvl
 =024  7\$aHI2006.087_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497257
-=035  9\$aNYUb13497257
-=035  9\$aNYUH13497257/14285952
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -15907,8 +15384,6 @@
 =024  7\$aHI2006_138_01$2nyu-hidvl
 =024  7\$aHI2006.138_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500465
-=035  9\$aNYUb13500465
-=035  9\$aNYUH13500465/14290871
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aeng$aspa
 =043  \\$an-us-ny
@@ -16002,9 +15477,6 @@
 =008  070515e19990807ck\037\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_086_01$2nyu-hidvl
 =024  7\$aHI2006.086_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497054
-=035  9\$aNYUb13497054
-=035  9\$aNYUH13497054/14285572
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -16199,9 +15671,6 @@
 =024  7\$aHI2006_093_01$2nyu-hidvl
 =024  7\$aHI2006.092_01$2nyu-hidvl
 =024  7\$aHI2006.093_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497304
-=035  9\$aNYUb13497304
-=035  9\$aNYUH13497304/14286009
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -16254,8 +15723,6 @@
 =024  7\$aHI2005_003_01$2nyu-hidvl
 =024  7\$aHI2005.003_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13056144
-=035  9\$aNYUb13056144
-=035  9\$aNYUH13056144/13702689
 =040  \\$aNNU$cNNU$eamim
 =245  00$aWinnetou's snake oil show from Wigwam City$h[videorecording]
 =246  33$aSpiderwoman Theatre :$bWinnetou's snake oil show from Wigwam City
@@ -16308,9 +15775,6 @@
 =008  070522s1999\\\\nyu081\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_111_01$2nyu-hidvl
 =024  7\$aHI2006.111_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499204
-=035  9\$aNYUb13499204
-=035  9\$aNYUH13499204/14289024
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aQuality of life II$h[videorecording].
@@ -16361,7 +15825,6 @@
 =008  080418s1999\\\\ag\043\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_217_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605884
-=035  9\$aNYUb13605884
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -16446,9 +15909,6 @@
 =008  070509e19990812ck\058\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_078_01$2nyu-hidvl
 =024  7\$aHI2006.078_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13495163
-=035  9\$aNYUb13495163
-=035  9\$aNYUH13495163/14282860
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-ck---
 =245  00$aInterview with Lisímaco Núñez$h[videorecording].
@@ -16496,9 +15956,7 @@
 =024  7\$aHI2007_030_A_01$2nyu-hidvl
 =024  7\$aHI2007_030_B_01$2nyu-hidvl
 =024  7\$aHI2007.030_01_A$2nyu-hidvl
-=035  9\$aNYUb13502755
 =035  \\$a(NYU)NYUb13502755
-=035  9\$aNYUH13502755/14294626
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwcu---$acl-----
 =245  03$aLa vida en rosa$h[videorecording].
@@ -16558,9 +16016,6 @@
 =024  7\$aHI2006_057_A_01$2nyu-hidvl
 =024  7\$aHI2006_057_B_01$2nyu-hidvl
 =024  7\$aHI2006.057_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493709
-=035  9\$aNYUb13493709
-=035  9\$aNYUH13493709/14280363
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  00$aPalenque político$h[videorecording].
@@ -16671,8 +16126,6 @@
 =024  7\$aHI2007.260_01_A$2nyu-hidvl
 =024  7\$aHI2007.260_01_B$2nyu-hidvl
 =035  \\$a(NYU)NYUb13612167
-=035  9\$aNYUb13612167
-=035  9\$aNYUH13612167/14489269
 =040  \\$aNNU$cNNU$eamim
 =043  \\$ae-dk---
 =079  \\$a(OCoLC)878606442
@@ -16730,9 +16183,6 @@
 =024  7\$aHI2007_072_01$2nyu-hidvl
 =024  7\$aHI2007_073_01$2nyu-hidvl
 =024  7\$aHI2007.072_01$2nyu-hidvl
-=035  9\$aNYUb13530709
-=035  \\$a(NYU)NYUb13530709
-=035  9\$aNYUH13530709/14340452
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  04$aThe shrunken head of Pancho villa$h[videorecording]
@@ -16784,9 +16234,6 @@
 =008  070515e19990819ck\062\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_091_01$2nyu-hidvl
 =024  7\$aHI2006.091_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497076
-=035  9\$aNYUb13497076
-=035  9\$aNYUH13497076/14285628
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-ck---
 =245  00$aInterview with Jorge Vargas$h[videorecording].
@@ -16834,9 +16281,6 @@
 =024  7\$aHI2006_076_01$2nyu-hidvl
 =024  7\$aHI2006_077_01$2nyu-hidvl
 =024  7\$aHI2006.076_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497128
-=035  9\$aNYUb13497128
-=035  9\$aNYUH13497128/14285709
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-ck---
 =245  00$aInterview with Jacqueline Vidal$h[videorecording].
@@ -16886,9 +16330,6 @@
 =008  070612e19990506nyu080\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_039_01$2nyu-hidvl
 =024  7\$aHI2007.039_01$2nyu-hidvl
-=035  9\$aNYUb13504192
-=035  \\$a(NYU)NYUb13504192
-=035  9\$aNYUH13504192/14296977
 =040  \\$aNNU$cNNU$eamim
 =245  00$aFaith and dancing$h[videorecording].
 =260  \\$c1999 May 6.
@@ -16936,9 +16377,6 @@
 =008  070516e199910uumx\057\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_095_01$2nyu-hidvl
 =024  7\$aHI2006.095_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497495
-=035  9\$aNYUb13497495
-=035  9\$aNYUH13497495/14286374
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -16990,9 +16428,6 @@
 =008  070516s1999\\\\mx\046\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_101_01$2nyu-hidvl
 =024  7\$aHI2006.101_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497629
-=035  9\$aNYUb13497629
-=035  9\$aNYUH13497629/14286602
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  03$aLa vida de las Juanas$h[videorecording].
@@ -17085,8 +16520,6 @@
 =024  7\$aHI2007_118_01$2nyu-hidvl
 =024  7\$aHI2007.115_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13532044
-=035  9\$aNYUb13532044
-=035  9\$aNYUH13532044/14342719
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$apor
 =079  \\$a(OCoLC)878606908
@@ -17144,9 +16577,6 @@
 =008  070517s2000\\\\xx\002\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_105_01$2nyu-hidvl
 =024  7\$aHI2006.105_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497720
-=035  9\$aNYUb13497720
-=035  9\$aNYUH13497720/14286898
 =040  \\$aNNU$cNNU$eamim
 =245  00$aSans gravity$h[videorecording].
 =260  \\$c2000.
@@ -17191,9 +16621,6 @@
 =008  070517s2000\\\\xxu007\\\\\\\\\\\\vlmul\d
 =024  7\$aHI2006_105_03$2nyu-hidvl
 =024  7\$aHI2006.105_03$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497808
-=035  9\$aNYUb13497808
-=035  9\$aNYUH13497808/14286947
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aeng$adan$aspa
 =245  00$aLifestyle$h[videorecording].
@@ -17245,8 +16672,6 @@
 =024  7\$aHI2005_055_01$2nyu-hidvl
 =024  7\$aHI2005.055_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13557251
-=035  9\$aNYUb13557251
-=035  9\$aNYUH13557251/14390794
 =040  \\$aNNU$cNNU$eamim
 =245  00$aChicomoztoc-mimixcoa$h[videorecording] :$bcloud serpents (2000).
 =246  3\$aCoatlicue Theater Company :$bChicomoztoc-mimixcoa : cloud serpents (2000)
@@ -17296,9 +16721,6 @@
 =008  070503e200006uunyu054\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_059_01$2nyu-hidvl
 =024  7\$aHI2006.059_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493751
-=035  9\$aNYUb13493751
-=035  9\$aNYUH13493751/14280505
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us-ny
@@ -17396,8 +16818,6 @@
 =024  7\$aHI2006_140_01$2nyu-hidvl
 =024  7\$aHI2006.140_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500707
-=035  9\$aNYUb13500707
-=035  9\$aNYUH13500707/14291266
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -17596,8 +17016,6 @@
 =024  7\$aHI2007_183_01$2nyu-hidvl
 =024  7\$aHI2007.183_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541603
-=035  9\$aNYUb13541603
-=035  9\$aNYUH13541603/14361605
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -17648,8 +17066,6 @@
 =024  7\$aHI2007_184_01$2nyu-hidvl
 =024  7\$aHI2007.184_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541625
-=035  9\$aNYUb13541625
-=035  9\$aNYUH13541625/14361629
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -17700,8 +17116,6 @@
 =024  7\$aHI2006_025_01$2nyu-hidvl
 =024  7\$aHI2006.025_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13506643
-=035  9\$aNYUb13506643
-=035  9\$aNYUH13506643/14300452
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-us---
@@ -17749,9 +17163,6 @@
 =008  070619s2000\\\\nyu002\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_024_01$2nyu-hidvl
 =024  7\$aHI2006.024_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13506949
-=035  9\$aNYUb13506949
-=035  9\$aNYUH13506949/14300860
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aLatino plastic cover$h[videorecording] :$bEnglish version.
@@ -17844,9 +17255,6 @@
 =008  070516e200004uumx\080\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_098_01$2nyu-hidvl
 =024  7\$aHI2006.098_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497546
-=035  9\$aNYUb13497546
-=035  9\$aNYUH13497546/14286460
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -17907,8 +17315,6 @@
 =024  7\$aHI2007_020_01$2nyu-hidvl
 =024  7\$aHI2007.020_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502608
-=035  9\$aNYUb13502608
-=035  9\$aNYUH13502608/14294323
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---
 =245  03$aEl taller como principio y fin$h[videorecording].
@@ -17958,8 +17364,6 @@
 =024  7\$aHI2006_158_01$2nyu-hidvl
 =024  7\$aHI2006.157_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13501134
-=035  9\$aNYUb13501134
-=035  9\$aNYUH13501134/14291976
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny$an-us---
 =245  00$aCome and see for yourselves$h[videorecording].
@@ -18013,9 +17417,6 @@
 =024  7\$aHI2007_111_01$2nyu-hidvl
 =024  7\$aHI2007_112_01$2nyu-hidvl
 =024  7\$aHI2007.111_01$2nyu-hidvl
-=035  9\$aNYUb13531911
-=035  \\$a(NYU)NYUb13531911
-=035  9\$aNYUH13531911/14342460
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aGrupo Cultural Yuyachkani$h[videorecording] :$btheater work demonstration.
@@ -18071,9 +17472,7 @@
 =008  070905e200007uubl\059\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_114_01$2nyu-hidvl
 =024  7\$aHI2007.114_01$2nyu-hidvl
-=035  9\$aNYUb13532017
 =035  \\$a(NYU)NYUb13532017
-=035  9\$aNYUH13532017/14342651
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-pe---
@@ -18170,9 +17569,6 @@
 =008  070904e20000708bl\060\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_110_01$2nyu-hidvl
 =024  7\$aHI2007.110_01$2nyu-hidvl
-=035  9\$aNYUb13531849
-=035  \\$a(NYU)NYUb13531849
-=035  9\$aNYUH13531849/14342366
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-pe---
@@ -18225,9 +17621,6 @@
 =008  070904e20000708bl\056\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_113_01$2nyu-hidvl
 =024  7\$aHI2007.113_01$2nyu-hidvl
-=035  9\$aNYUb13531948
-=035  \\$a(NYU)NYUb13531948
-=035  9\$aNYUH13531948/14342516
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aMiguel Rubio & Teresa Ralli (Grupo Cultural Yuyachkani)$h[videorecording] :$bkeynote address.
@@ -18322,8 +17715,6 @@
 =024  7\$aHI2005_047_B_01$2nyu-hidvl
 =024  7\$aHI2005.047_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556682
-=035  9\$aNYUb13556682
-=035  9\$aNYUH13556682/14389191
 =040  \\$aNNU$cNNU$eamim
 =245  00$aIndian Summer 2000 :$bSpeaking, singing, dancing in beauty$h[videorecording].
 =246  30$aSpeaking, singing, dancing in beauty
@@ -18583,9 +17974,6 @@
 =024  7\$aHI2007_080_01$2nyu-hidvl
 =024  7\$aHI2007_122_01$2nyu-hidvl
 =024  7\$aHI2007.080_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13530819
-=035  9\$aNYUb13530819
-=035  9\$aNYUH13530819/14340688
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us-ca
@@ -18637,7 +18025,6 @@
 =008  080417s2000\\\\ec\008\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_210_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605773
-=035  9\$aNYUb13605773
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -18689,9 +18076,7 @@
 =024  7\$aHI2007_044_A_01$2nyu-hidvl
 =024  7\$aHI2007_044_B_01$2nyu-hidvl
 =024  7\$aHI2007.044_01_A$2nyu-hidvl
-=035  9\$aNYUb13504651
 =035  \\$a(NYU)NYUb13504651
-=035  9\$aNYUH13504651/14297654
 =040  \\$aNNU$cNNU$eamim
 =245  00$aSalad of the Bad Café$h[videorecording].
 =246  3\$aSalad of the Bad Café (2000)
@@ -18783,9 +18168,7 @@
 =008  031013e200107uumx\030\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2003_029_01$2nyu-hidvl
 =024  7\$aHI2003.029_01$2nyu-hidvl
-=035  9\$aNYUb12827286
 =035  \\$a(NYU)NYUb12827286
-=035  9\$aNYUH12827286/13374366
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$amwcu---$anwcu---
@@ -18833,9 +18216,6 @@
 =024  7\$aHI2004_007_01$2nyu-hidvl
 =024  7\$aHI2004_008_01$2nyu-hidvl
 =024  7\$aHI2004.007_01$2nyu-hidvl
-=035  9\$aNYUb12828981
-=035  \\$a(NYU)NYUb12828981
-=035  9\$aNYUH12828981/13377301
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aspa$aeng
 =043  \\$anwcu---
@@ -18932,9 +18312,6 @@
 =008  070523e20010911ck\045\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_124_01$2nyu-hidvl
 =024  7\$aHI2006.124_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499695
-=035  9\$aNYUb13499695
-=035  9\$aNYUH13499695/14289715
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -19020,9 +18397,6 @@
 =008  070517s2001\\\\xxu001\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_105_02$2nyu-hidvl
 =024  7\$aHI2006.105_02$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497800
-=035  9\$aNYUb13497800
-=035  9\$aNYUH13497800/14286939
 =040  \\$aNNU$cNNU$eamim
 =245  00$aSparkler$h[videorecording].
 =260  \\$c2001.
@@ -19069,9 +18443,6 @@
 =024  7\$aHI2004_009_01$2nyu-hidvl
 =024  7\$aHI2004_010_01$2nyu-hidvl
 =024  7\$aHI2004.009_01$2nyu-hidvl
-=035  9\$aNYUb12829677
-=035  \\$a(NYU)NYUb12829677
-=035  9\$aNYUH12829677/13378374
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$an-mx---$an-us---
@@ -19122,9 +18493,6 @@
 =008  070503e200107uunyu042\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_062_01$2nyu-hidvl
 =024  7\$aHI2006.062_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493794
-=035  9\$aNYUb13493794
-=035  9\$aNYUH13493794/14280557
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  04$aThe fraud$h[videorecording].
@@ -19212,9 +18580,6 @@
 =008  070516e200108uumx\030\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_097_01$2nyu-hidvl
 =024  7\$aHI2006.097_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497511
-=035  9\$aNYUb13497511
-=035  9\$aNYUH13497511/14286398
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -19266,8 +18631,6 @@
 =024  7\$aHI2005_072_01$2nyu-hidvl
 =024  7\$aHI2005.072_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507841
-=035  9\$aNYUb13507841
-=035  9\$aNYUH13507841/14302040
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us-ca
@@ -19320,9 +18683,7 @@
 =008  031013e200107uumx\030\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2003_027_01$2nyu-hidvl
 =024  7\$aHI2003.027_01$2nyu-hidvl
-=035  9\$aNYUb12827260
 =035  \\$a(NYU)NYUb12827260
-=035  9\$aNYUH12827260/13374312
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -19374,9 +18735,7 @@
 =024  7\$aHI2003.028_01$2nyu-hidvl
 =024  7\$aHI2011.033_01$2nyu-hidvl
 =024  7\$aHI2003.028_01$2nyu-hidvl
-=035  9\$aNYUb12827273
 =035  \\$a(NYU)NYUb12827273
-=035  9\$aNYUH12827273/13374337
 =040  \\$aNNU$beng$cNNU
 =041  0\$aspa
 =043  \\$an-mx---
@@ -19478,9 +18837,7 @@
 =008  070606e200106uumx\062\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_021_01$2nyu-hidvl
 =024  7\$aHI2007.021_01$2nyu-hidvl
-=035  9\$aNYUb13502630
 =035  \\$a(NYU)NYUb13502630
-=035  9\$aNYUH13502630/14294374
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---
 =245  00$aTeresa Hernández and Viveca Vázquez at the 2nd Hemispheric Institute Encuentro, Monterrey 2001$h[videorecording].
@@ -19540,9 +18897,6 @@
 =024  7\$aHI2005_036_A_01$2nyu-hidvl
 =024  7\$aHI2005_036_B_01$2nyu-hidvl
 =024  7\$aHI2005.036_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13556392
-=035  9\$aNYUb13556392
-=035  9\$aNYUH13556392/14388682
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMaurice Kenny at AICH's Writer's Circle :$bThe people's poetry gathering$h[videorecording].
 =246  30$aPeople's poetry gathering
@@ -19679,8 +19033,6 @@
 =024  7\$aHI2007_097_B_01$2nyu-hidvl
 =024  7\$aHI2007.097_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13531684
-=035  9\$aNYUb13531684
-=035  9\$aNYUH13531684/14342093
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -19750,9 +19102,6 @@
 =008  031013e200106uumx\060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2004_006_01$2nyu-hidvl
 =024  7\$aHI2004.006_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb12828966
-=035  9\$aNYUb12828966
-=035  9\$aNYUH12828966/13377270
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aEl bolero fue mi ruina.$h[videorecording] =$bThe bolero was my ruin.
@@ -19803,9 +19152,6 @@
 =008  070522e20010624nyu079\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_110_01$2nyu-hidvl
 =024  7\$aHI2006.110_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499136
-=035  9\$aNYUb13499136
-=035  9\$aNYUH13499136/14288933
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  04$aThe medicine show$h[videorecording].
@@ -19900,9 +19246,6 @@
 =024  7\$aHI2007_199_A_01$2nyu-hidvl
 =024  7\$aHI2007_199_B_01$2nyu-hidvl
 =024  7\$aHI2007.199_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13541696
-=035  9\$aNYUb13541696
-=035  9\$aNYUH13541696/14361776
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aPromise of a love song$h[videorecording].
@@ -19966,9 +19309,6 @@
 =008  070516s2001\\\\mx\030\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_103_01$2nyu-hidvl
 =024  7\$aHI2006.103_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497676
-=035  9\$aNYUb13497676
-=035  9\$aNYUH13497676/14286704
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$amyn
 =043  \\$an-mx---
@@ -20020,8 +19360,6 @@
 =024  7\$aHI2006_030_01$2nyu-hidvl
 =024  7\$aHI2006.030_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505422
-=035  9\$aNYUb13505422
-=035  9\$aNYUH13505422/14298791
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aMemoria del teatro$h[videorecording] :$bmujeres de Yuyachkani.
@@ -20123,9 +19461,6 @@
 =008  071113s2001\\\\pe\072\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2005_097_01$2nyu-hidvl
 =024  7\$aHI2005.097_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13552934
-=035  9\$aNYUb13552934
-=035  9\$aNYUH13552934/14382490
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aSantiago$h[videorecording]
@@ -20270,9 +19605,6 @@
 =024  7\$aHI2007_069_01$2nyu-hidvl
 =024  7\$aHI2007_120_01$2nyu-hidvl
 =024  7\$aHI2007.068_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13530693
-=035  9\$aNYUb13530693
-=035  9\$aNYUH13530693/14340401
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =079  \\$a(OCoLC)878606838
@@ -20325,9 +19657,6 @@
 =024  7\$aHI2007_084_01$2nyu-hidvl
 =024  7\$aHI2007_123_01$2nyu-hidvl
 =024  7\$aHI2007.084_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13530849
-=035  9\$aNYUb13530849
-=035  9\$aNYUH13530849/14340744
 =040  \\$aNNU$cNNU$eamim
 =079  \\$a(OCoLC)878606886
 =245  00$aLa carpa de los Rasquachis$h[videorecording].
@@ -20383,9 +19712,7 @@
 =008  070508s2001\\\\cau034\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_075_01$2nyu-hidvl
 =024  7\$aHI2007.075_01$2nyu-hidvl
-=035  9\$aNYUb13530776
 =035  \\$a(NYU)NYUb13530776
-=035  9\$aNYUH13530776/14340607
 =040  \\$aNNU$cNNU$eamim
 =245  00$a4 agitators$h[videorecording]
 =246  3\$aFour agitators
@@ -20431,9 +19758,7 @@
 =008  070904s2001\\\\cau017\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_108_01$2nyu-hidvl
 =024  7\$aHI2007.108_01$2nyu-hidvl
-=035  9\$aNYUb13531806
 =035  \\$a(NYU)NYUb13531806
-=035  9\$aNYUH13531806/14342287
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ca
 =245  00$aPower to the people$h[videorecording]
@@ -20483,8 +19808,6 @@
 =008  070904s2001\\\\mx\015\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_109_01$2nyu-hidvl
 =024  7\$aHI2007.109_01$2nyu-hidvl
-=035  9\$aNYUb13531820
-=035  9\$aNYUH13531820/14342312
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---$an-mx---
 =245  00$aSolidarity por vida$h[videorecording]
@@ -20535,8 +19858,6 @@
 =024  7\$aHI2007_207_01$2nyu-hidvl
 =024  7\$aHI2007.206_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605730
-=035  9\$aNYUb13605730
-=035  9\$aNYUH13605730/14478198
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -20591,9 +19912,7 @@
 =008  031013e200107uumx\060\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2003_031_01$2nyu-hidvl
 =024  7\$aHI2003.031_01$2nyu-hidvl
-=035  9\$aNYUb12816588
 =035  \\$a(NYU)NYUb12816588
-=035  9\$aNYUH12816588/13356717
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =042  \\$an-mx---
@@ -20647,9 +19966,6 @@
 =008  031013e200107uumx\030\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2003_030_01$2nyu-hidvl
 =024  7\$aHI2003.030_01$2nyu-hidvl
-=035  9\$aNYUb12827294
-=035  \\$a(NYU)NYUb12827294
-=035  9\$aNYUH12827294/13374375
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -20701,8 +20017,6 @@
 =024  7\$aHI2005_044_B_01$2nyu-hidvl
 =024  7\$aHI2005.044_01_A$2nyu-hidvl
 =035  \\$a(NYU)NYUb13556652
-=035  9\$aNYUb13556652
-=035  9\$aNYUH13556652/14389135
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aDr. Robert Venables' lecture on Indian land claims$h[videorecording]
@@ -20936,7 +20250,6 @@
 =024  7\$aHI2007_235_01$2nyu-hidvl
 =024  7\$aHI2007.235_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610630
-=035  9\$aNYUb13610630
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)227163671
@@ -20987,9 +20300,7 @@
 =008  031013e20020710pe\020\\\\\\\\\\\\vleng\d
 =024  7\$aHI2003_022_01$2nyu-hidvl
 =024  7\$aHI2003.022_01$2nyu-hidvl
-=035  9\$aNYUb12825371
 =035  \\$a(NYU)NYUb12825371
-=035  9\$aNYUH12825371/13371110
 =040  \\$aNNU$cNNU$eamim
 =043  \\$acl-----
 =245  00$aInterview with Lourdes Arizpe$h[videorecording].
@@ -21031,9 +20342,7 @@
 =008  031013e200207uupe\060\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_020_01$2nyu-hidvl
 =024  7\$aHI2004.020_01$2nyu-hidvl
-=035  9\$aNYUb12834816
 =035  \\$a(NYU)NYUb12834816
-=035  9\$aNYUH12834816/13384502
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwcu---
@@ -21128,10 +20437,7 @@
 =024  7\$aHI2004.017_01$2nyu-hidvl
 =024  7\$aHI2004.016_01$2nyu-hidvl
 =024  7\$aHI2004.017_01$2nyu-hidvl
-=035  9\$aNYUb12835310
 =035  \\$a(NYU)NYUb12835310
-=035  9\$aNYUH12835310/13385323
-=035  9\$aNYUH12835310/13385329
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNao Bustamante$h[videorecording] :$bAmerica the beautiful.
 =246  30$aAmerica the beautiful
@@ -21180,9 +20486,6 @@
 =008  040503e200207uupe\060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2004_031_01$2nyu-hidvl
 =024  7\$aHI2004.031_01$2nyu-hidvl
-=035  9\$aNYUb12900111
-=035  \\$a(NYU)NYUb12900111
-=035  9\$aNYUH12900111/13962336
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aInterview with Nao Bustamante$h[videorecording].
@@ -21225,9 +20528,6 @@
 =008  031014e200207uupe\043\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_028_01$2nyu-hidvl
 =024  7\$aHI2004.028_01$2nyu-hidvl
-=035  9\$aNYUb12879680
-=035  \\$a(NYU)NYUb12879680
-=035  9\$aNYUH12879680/13438670
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$af------
@@ -21281,9 +20581,7 @@
 =008  031014e200207uupe\012\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_029_01$2nyu-hidvl
 =024  7\$aHI2004.029_01$2nyu-hidvl
-=035  9\$aNYUb12880362
 =035  \\$a(NYU)NYUb12880362
-=035  9\$aNYUH12880362/13439379
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with Dr. Gisela Cánepa Koch$h[videorecording].
@@ -21328,9 +20626,6 @@
 =008  070503e200203uunyu050\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_060_01$2nyu-hidvl
 =024  7\$aHI2006.060_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493765
-=035  9\$aNYUb13493765
-=035  9\$aNYUH13493765/14280494
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aHamletango, prince of butches$h[videorecording].
@@ -21379,9 +20674,6 @@
 =008  070508e200210uunyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_066_01$2nyu-hidvl
 =024  7\$aHI2006.066_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494826
-=035  9\$aNYUb13494826
-=035  9\$aNYUH13494826/14282082
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aSpic for export$h[videorecording].
@@ -21430,8 +20722,6 @@
 =024  7\$aHI2006_032_01$2nyu-hidvl
 =024  7\$aHI2006.032_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505408
-=035  9\$aNYUb13505408
-=035  9\$aNYUH13505408/14298758
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  03$aEl bus de la fuga$h[videorecording].
@@ -21481,9 +20771,6 @@
 =008  031014e200207uupe\017\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_030_01$2nyu-hidvl
 =024  7\$aHI2004.030_01$2nyu-hidvl
-=035  9\$aNYUb12894601
-=035  \\$a(NYU)NYUb12894601
-=035  9\$aNYUH12894601/13454598
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-pe---
@@ -21638,9 +20925,6 @@
 =008  031014e200207uupe\045\\\\\\\\\\\\vleng\d
 =024  7\$aHI2004_027_01$2nyu-hidvl
 =024  7\$aHI2004.027_01$2nyu-hidvl
-=035  9\$aNYUb12878929
-=035  \\$a(NYU)NYUb12878929
-=035  9\$aNYUH12878929/13437837
 =040  \\$aNNU$cNNU$eamim
 =245  00$aEleonora Fabião$h[videorecording] :$bThe giro piece.
 =246  30$aGiro piece
@@ -21684,9 +20968,7 @@
 =008  070606s2002\\\\pr\062\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_024_01$2nyu-hidvl
 =024  7\$aHI2007.024_01$2nyu-hidvl
-=035  9\$aNYUb13502676
 =035  \\$a(NYU)NYUb13502676
-=035  9\$aNYUH13502676/14294476
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---
 =245  00$aInfarto$h[videorecording].
@@ -21737,8 +21019,6 @@
 =024  7\$aHI2007_185_01$2nyu-hidvl
 =024  7\$aHI2007.185_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541633
-=035  9\$aNYUb13541633
-=035  9\$aNYUH13541633/14361643
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -21833,8 +21113,6 @@
 =024  7\$aHI2007_087_01$2nyu-hidvl
 =024  7\$aHI2007.086_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13530862
-=035  9\$aNYUb13530862
-=035  9\$aNYUH13530862/14340776
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -21927,8 +21205,6 @@
 =024  7\$aHI2007_008_01$2nyu-hidvl
 =024  7\$aHI2007.008_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13502255
-=035  9\$aNYUb13502255
-=035  9\$aNYUH13502255/14293737
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny$an-us---
 =245  04$aThe experimental walking tour$h[videorecording].
@@ -22020,9 +21296,6 @@
 =024  7\$aHI2007_034_01$2nyu-hidvl
 =024  7\$aHI2007_035_01$2nyu-hidvl
 =024  7\$aHI2007.034_01$2nyu-hidvl
-=035  9\$aNYUb13502965
-=035  \\$a(NYU)NYUb13502965
-=035  9\$aNYUH13502965/14295101
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwcu---$acl-----
 =245  00$aBacantes$h[videorecording].
@@ -22075,7 +21348,6 @@
 =008  050901e200207uupe\019\\\\\\\\\\\\vleng\d
 =024  7\$aHI2004_017_02$2nyu-hidvl
 =024  7\$aHI2004.017_02$2nyu-hidvl
-=035  9\$aNYUb13088427
 =035  \\$a(NYU)NYUb13088427
 =040  \\$aNNU$cNNU$eamim
 =079  \\$a(OCoLC)607204636
@@ -22125,8 +21397,6 @@
 =024  7\$aHI2005_006_01$2nyu-hidvl
 =024  7\$aHI2005.006_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13068528
-=035  9\$aNYUb13068528
-=035  9\$aNYUH13068528/13732528
 =040  \\$aNNU$cNNU$eamim
 =245  00$aUlali in concert$h[videorecording]
 =246  3\$iTitle on DVD cover and title screen:$aUlali
@@ -22181,9 +21451,6 @@
 =024  7\$aHI2004_049_B_01$2nyu-hidvl
 =024  7\$aHI2004_050_01$2nyu-hidvl
 =024  7\$aHI2004.049_01_A$2nyu-hidvl
-=035  \\$a(NYU)NYUb13573849
-=035  9\$aNYUb13573849
-=035  9\$aNYUH13573849/14489395
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)878606427
@@ -22245,9 +21512,6 @@
 =008  050512e200206uumx\014\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_051_01$2nyu-hidvl
 =024  7\$aHI2004.051_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13034094
-=035  9\$aNYUb13034094
-=035  9\$aNYUH13034094/13668044
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aBig mother$h[videorecording] :$bel gran desmadre (video para expectáculo).
@@ -22302,8 +21566,6 @@
 =024  7\$aHI2004_056_01$2nyu-hidvl
 =024  7\$aHI2004.055_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13045351
-=035  9\$aNYUb13045351
-=035  9\$aNYUH13045351/14291634
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)82424957
@@ -22355,9 +21617,6 @@
 =024  7\$aHI2004_012_01$2nyu-hidvl
 =024  7\$aHI2004_013_01$2nyu-hidvl
 =024  7\$aHI2004.011_01$2nyu-hidvl
-=035  9\$aNYUb12829704
-=035  \\$a(NYU)NYUb12829704
-=035  9\$aNYUH12829704/13378430
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$an-us---
@@ -22413,10 +21672,6 @@
 =024  7\$aHI2004_036_01$2nyu-hidvl
 =024  7\$aHI2004.036_01$2nyu-hidvl
 =024  7\$aHI2004.036_01$2nyu-hidvl
-=035  9\$aNYUb12924370
-=035  \\$a(NYU)NYUb12924370
-=035  9\$aNYUH12924370/13500528
-=035  9\$aNYUH12924370/13500529
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -22471,9 +21726,7 @@
 =008  040401e200207uupe\023\\\\\\\\\\\\vleng\d
 =024  7\$aHI2004_025_01$2nyu-hidvl
 =024  7\$aHI2004.025_01$2nyu-hidvl
-=035  9\$aNYUb12864055
 =035  \\$a(NYU)NYUb12864055
-=035  9\$aNYUH12864055/13421574
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Renato Rosaldo$h[videorecording].
 =246  30$aRenato Rosaldo
@@ -22517,8 +21770,6 @@
 =024  7\$aHI2005_099_01$2nyu-hidvl
 =024  7\$aHI2005.099_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13553018
-=035  9\$aNYUb13553018
-=035  9\$aNYUH13553018/14382612
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-pe---
 =245  00$aAlma viva :$bpara que florezca la memoria$h[videorecording]
@@ -22567,9 +21818,6 @@
 =024  7\$aHI2004_014_01$2nyu-hidvl
 =024  7\$aHI2004_015_01$2nyu-hidvl
 =024  7\$aHI2004.014_01$2nyu-hidvl
-=035  9\$aNYUb12829712
-=035  \\$a(NYU)NYUb12829712
-=035  9\$aNYUH12829712/13378439
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-pe---
@@ -22636,9 +21884,6 @@
 =024  7\$aHI2003_024_01$2nyu-hidvl
 =024  7\$aHI2003_025_01$2nyu-hidvl
 =024  7\$aHI2003.024_01$2nyu-hidvl
-=035  9\$aNYUb12826931
-=035  \\$a(NYU)NYUb12826931
-=035  9\$aNYUH12826931/13373697
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aeng$aspa
 =043  \\$acl-----$an-us---$an------$as------
@@ -22697,9 +21942,6 @@
 =008  031014e200207uupe\037\\\\\\\\\\\\vlpor\d
 =024  7\$aHI2004_026_01$2nyu-hidvl
 =024  7\$aHI2004.026_01$2nyu-hidvl
-=035  9\$aNYUb12871990
-=035  \\$a(NYU)NYUb12871990
-=035  9\$aNYUH12871990/13430291
 =040  \\$aNNU$cNNU$eamim
 =041  0\$apor$aeng
 =043  \\$as-bl---
@@ -22786,8 +22028,6 @@
 =024  7\$aHI2007_121_01$2nyu-hidvl
 =024  7\$aHI2007.070_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13530703
-=035  9\$aNYUb13530703
-=035  9\$aNYUH13530703/14340428
 =040  \\$aNNU$cNNU$eamim
 =079  \\$a(OCoLC)878606825
 =245  00$aMummified deer$h[videorecording].
@@ -22838,10 +22078,7 @@
 =024  7\$aHI2007_038_01$2nyu-hidvl
 =024  7\$aHI2007.037_01$2nyu-hidvl
 =024  7\$aHI2007.037_01$2nyu-hidvl
-=035  9\$aNYUb13504125
 =035  \\$a(NYU)NYUb13504125
-=035  9\$aNYUH13504125/14395545
-=035  9\$aNYUH13504125/14296894
 =040  \\$aNNU$cNNU$eamim
 =245  00$aDouble agency$h[videorecording] :$bMiss Risqué & It's a small house and we've lived in it always
 =246  30$aMiss Risqué
@@ -22901,9 +22138,6 @@
 =008  031013e200209uunyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2003_026_01$2nyu-hidvl
 =024  7\$aHI2003.026_01$2nyu-hidvl
-=035  9\$aNYUb12826934
-=035  \\$a(NYU)NYUb12826934
-=035  9\$aNYUH12826934/13373702
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Tomás Ybarra-Frausto$h[videorecording].
 =246  30$aTomás Ybarra-Frausto
@@ -22985,7 +22219,6 @@
 =008  080503s2003\\\\xx\055\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_236_01$2nyu-hidvl
 =024  7\$aHI2007.236_01$2nyu-hidvl
-=035  9\$aNYUb13610631
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)227163673
@@ -23133,9 +22366,7 @@
 =024  7\$aHI2003_017_01$2nyu-hidvl
 =024  7\$aHI2003_018_01$2nyu-hidvl
 =024  7\$aHI2003.017_01$2nyu-hidvl
-=035  9\$aNYUb12825366
 =035  \\$a(NYU)NYUb12825366
-=035  9\$aNYUH12825366/13371100
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$as-pe---$acl-----
@@ -23225,8 +22456,6 @@
 =024  7\$aHI2007_224_01$2nyu-hidvl
 =024  7\$aHI2007_225_01$2nyu-hidvl
 =024  7\$aHI2007.224_01$2nyu-hidvl
-=035  9\$aNYUb13605936
-=035  9\$aNYUH13605936/14478791
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -23291,8 +22520,6 @@
 =024  7\$aHI2006_130_01$2nyu-hidvl
 =024  7\$aHI2006.130_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500354
-=035  9\$aNYUb13500354
-=035  9\$aNYUH13500354/14290714
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -23347,8 +22574,6 @@
 =024  7\$aHI2006_134_01$2nyu-hidvl
 =024  7\$aHI2006.133_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500412
-=035  9\$aNYUb13500412
-=035  9\$aNYUH13500412/14290796
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -23401,9 +22626,7 @@
 =008  031013e20030715nyu060\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2003_020_01$2nyu-hidvl
 =024  7\$aHI2003.020_01$2nyu-hidvl
-=035  9\$aNYUb12807171
 =035  \\$a(NYU)NYUb12807171
-=035  9\$aNYUH12807171/13342574
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$as-pe---
@@ -23450,9 +22673,7 @@
 =024  7\$aHI2003_002_01$2nyu-hidvl
 =024  7\$aHI2003_003_01$2nyu-hidvl
 =024  7\$aHI2003.002_01$2nyu-hidvl
-=035  9\$aNYUb12816825
 =035  \\$a(NYU)NYUb12816825
-=035  9\$aNYUH12816825/13357100
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$as-pe---
@@ -23505,9 +22726,6 @@
 =008  031013e200307uunyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2003_005_01$2nyu-hidvl
 =024  7\$aHI2003.005_01$2nyu-hidvl
-=035  9\$aNYUb12795072
-=035  \\$a(NYU)NYUb12795072
-=035  9\$aNYUH12795072/13962206
 =040  \\$aNNU$cNNU$eamim
 =245  00$aNao Bustamante$h[videorecording] :$bSans gravity.
 =246  30$aSans gravity
@@ -23553,9 +22771,6 @@
 =008  070522e20030516ck\010\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_117_01$2nyu-hidvl
 =024  7\$aHI2006.117_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499489
-=035  9\$aNYUb13499489
-=035  9\$aNYUH13499489/14289432
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -23609,8 +22824,6 @@
 =024  7\$aHI2006_155_01$2nyu-hidvl
 =024  7\$aHI2006.155_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13501104
-=035  9\$aNYUb13501104
-=035  9\$aNYUH13501104/14291946
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -23661,8 +22874,6 @@
 =024  7\$aHI2004_024_01$2nyu-hidvl
 =024  7\$aHI2004.024_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb12840714
-=035  9\$aNYUb12840714
-=035  9\$aNYUH12840714/13393023
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---$an------
@@ -23718,9 +22929,6 @@
 =008  070502e200303uunyu057\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_058_01$2nyu-hidvl
 =024  7\$aHI2006.058_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493470
-=035  9\$aNYUb13493470
-=035  9\$aNYUH13493470/14280499
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aDykenstein$h[videorecording] :$bsex, horror and the tragedy of the straight brain.
@@ -23768,9 +22976,6 @@
 =008  070503e200306uunyu015\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_063_01$2nyu-hidvl
 =024  7\$aHI2006.063_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493816
-=035  9\$aNYUb13493816
-=035  9\$aNYUH13493816/14280591
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aHomerun$h[videorecording].
@@ -24049,9 +23254,6 @@
 =008  070619e20030111nyu029\\\\\\\\\\\\vleng\d
 =024  7\$aHI2005_063_01$2nyu-hidvl
 =024  7\$aHI2005.063_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13507297
-=035  9\$aNYUb13507297
-=035  9\$aNYUH13507297/14301280
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aNative American artists/scholars$h[videorecording] :$bspeaking for ourselves in the 21st century.
@@ -24108,9 +23310,6 @@
 =008  031014e200307uunyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2003_001_01$2nyu-hidvl
 =024  7\$aHI2003.001_01$2nyu-hidvl
-=035  9\$aNYUb12795531
-=035  \\$a(NYU)NYUb12795531
-=035  9\$aNYUH12795531/13325670
 =040  \\$aNNU$cNNU$eamim
 =043  \\$acl-----
 =245  00$aJean Franco keynote address$h[videorecording] :$bThe second coming : religion as entertainment.
@@ -24157,8 +23356,6 @@
 =024  7\$aHI2006_144_01$2nyu-hidvl
 =024  7\$aHI2006.143_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13500842
-=035  9\$aNYUb13500842
-=035  9\$aNYUH13500842/14291497
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -24217,8 +23414,6 @@
 =024  7\$aHI2005_066_01$2nyu-hidvl
 =024  7\$aHI2005.066_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507584
-=035  9\$aNYUb13507584
-=035  9\$aNYUH13507584/14301667
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aMuseo de la identidad fetich-izada$h[videorecording]
@@ -24275,9 +23470,6 @@
 =008  070620s2003\\\\mx\085\\\\\\\\\\\\vlmul\d
 =024  7\$aHI2005_067_01$2nyu-hidvl
 =024  7\$aHI2005.067_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13507596
-=035  9\$aNYUb13507596
-=035  9\$aNYUH13507596/14301692
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aMuseo de la identidad fetich-izada :$bPocha Nostra workshop$h[videorecording]
@@ -24327,9 +23519,7 @@
 =008  031110e20030715nyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2003_021_01$2nyu-hidvl
 =024  7\$aHI2003.021_01$2nyu-hidvl
-=035  9\$aNYUb12804701
 =035  \\$a(NYU)NYUb12804701
-=035  9\$aNYUH12804701/13339008
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Jill Greenhalgh & Mike Brookes$h[videorecording].
 =246  30$aJill Greenhalgh & Mike Brookes
@@ -24424,8 +23614,6 @@
 =024  7\$aHI2007_187_01$2nyu-hidvl
 =024  7\$aHI2007.186_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541643
-=035  9\$aNYUb13541643
-=035  9\$aNYUH13541643/14361653
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -24478,9 +23666,6 @@
 =008  070619s2003\\\\nyu006\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_026_01$2nyu-hidvl
 =024  7\$aHI2006.026_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13506619
-=035  9\$aNYUb13506619
-=035  9\$aNYUH13506619/14300427
 =040  \\$aNNU$cNNU$eamim
 =245  00$aLupe & JuanDi from the block$h[videorecording].
 =246  3\$aLupe and JuanDi from the block
@@ -24527,7 +23712,6 @@
 =008  080503e200312uuxx\011\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_234_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610628
-=035  9\$aNYUb13610628
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)227163666
@@ -24579,9 +23763,6 @@
 =008  031013e20030718nyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2004_001_01$2nyu-hidvl
 =024  7\$aHI2004.001_01$2nyu-hidvl
-=035  9\$aNYUb12828569
-=035  \\$a(NYU)NYUb12828569
-=035  9\$aNYUH12828569/13376577
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-mx---$an-us---
@@ -24680,8 +23861,6 @@
 =024  7\$aHI2007_091_01$2nyu-hidvl
 =024  7\$aHI2007.088_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13530874
-=035  9\$aNYUb13530874
-=035  9\$aNYUH13530874/14340798
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$anwpr---
@@ -24752,9 +23931,7 @@
 =024  7\$aHI2003_010_01$2nyu-hidvl
 =024  7\$aHI2003_011_01$2nyu-hidvl
 =024  7\$aHI2003.010_01$2nyu-hidvl
-=035  9\$aNYUb12817432
 =035  \\$a(NYU)NYUb12817432
-=035  9\$aNYUH12817432/13357937
 =040  \\$aNNU$cNNU$eamim
 =041  0\$apor
 =043  \\$as-bl---
@@ -24806,9 +23983,6 @@
 =008  070522e20030614nyu081\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_112_01$2nyu-hidvl
 =024  7\$aHI2006.112_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499267
-=035  9\$aNYUb13499267
-=035  9\$aNYUH13499267/14289108
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny$an-us---
 =245  00$aHome * land * security$h[videorecording].
@@ -24860,9 +24034,7 @@
 =008  040128e200307uunyu060\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2003_004_01$2nyu-hidvl
 =024  7\$aHI2003.004_01$2nyu-hidvl
-=035  9\$aNYUb12824725
 =035  \\$a(NYU)NYUb12824725
-=035  9\$aNYUH12824725/13369821
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$acl-----
@@ -24908,9 +24080,6 @@
 =008  070522e20030410at\040\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_115_01$2nyu-hidvl
 =024  7\$aHI2006.115_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499379
-=035  9\$aNYUb13499379
-=035  9\$aNYUH13499379/14289283
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -24960,9 +24129,6 @@
 =008  070522e20030416at\089\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_116_01$2nyu-hidvl
 =024  7\$aHI2006.116_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499426
-=035  9\$aNYUb13499426
-=035  9\$aNYUH13499426/14289349
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -25015,9 +24181,6 @@
 =024  7\$aHI2003_015_01$2nyu-hidvl
 =024  7\$aHI2003_016_01$2nyu-hidvl
 =024  7\$aHI2003.014_01$2nyu-hidvl
-=035  9\$aNYUb12796893
-=035  \\$a(NYU)NYUb12796893
-=035  9\$aNYUH12796893/13327652
 =040  \\$aNNU$cNNU$eamim
 =043  \\$acl-----$acc-----
 =245  00$aManifestations of the divine$h[videorecording] :$bthe body.
@@ -25113,8 +24276,6 @@
 =024  7\$aHI2004_053_01$2nyu-hidvl
 =024  7\$aHI2004.052_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13034205
-=035  9\$aNYUb13034205
-=035  9\$aNYUH13034205/14291633
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---$acl-----
@@ -25167,8 +24328,6 @@
 =024  7\$aHI2004_054_01$2nyu-hidvl
 =024  7\$aHI2004.054_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13034230
-=035  9\$aNYUb13034230
-=035  9\$aNYUH13034230/13668274
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -25226,9 +24385,6 @@
 =008  050624e200306uumx\012\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_060_01$2nyu-hidvl
 =024  7\$aHI2004.060_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13049278
-=035  9\$aNYUb13049278
-=035  9\$aNYUH13049278/13688439
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  00$aFoximiliano y Martota (video para espectáculo)$h[videorecording].
@@ -25323,7 +24479,6 @@
 =008  080509s2003\\\\nyu079\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_262_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13612366
-=035  9\$aNYUb13612366
 =040  \\$aNNU$cNNU$eamim
 =245  00$aEast Coast Artists$h[videorecording] :$bRasaBoxes workshop (New York University 2003).
 =246  30$aRasaBoxes workshop (New York University 2003)
@@ -25370,8 +24525,6 @@
 =024  7\$aHI2003.008_01$2nyu-hidvl
 =024  7\$aHI2003.009_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb12817122
-=035  9\$aNYUb12817122
-=035  9\$aNYUH12817122/13357524
 =040  \\$aNNU$cNNU$eamim
 =245  00$aEast Coast Artists$h[videorecording] :$bYokastaS.
 =246  30$aYokastaS
@@ -25428,9 +24581,7 @@
 =024  7\$aHI2003_012_01$2nyu-hidvl
 =024  7\$aHI2003_013_01$2nyu-hidvl
 =024  7\$aHI2003.012_01$2nyu-hidvl
-=035  9\$aNYUb12800507
 =035  \\$a(NYU)NYUb12800507
-=035  9\$aNYUH12800507/13332995
 =040  \\$aNNU$cNNU$eamim
 =043  \\$acl-----$au-us-nm$an-us-nm$anwcu---
 =245  00$aReligious fervor and popular culture$h[videorecording].
@@ -25484,9 +24635,6 @@
 =008  031013e200307uunyu060\\\\\\\\\\\\vleng\d
 =024  7\$aHI2003_007_01$2nyu-hidvl
 =024  7\$aHI2003.007_01$2nyu-hidvl
-=035  9\$aNYUb12794578
-=035  \\$a(NYU)NYUb12794578
-=035  9\$aNYUH12794578/13324423
 =040  \\$aNNU$cNNU$eamim
 =245  00$aReverend Billy and the Church of stop-shopping$h[videorecording] :$blive.
 =246  30$aChurch of stop-shopping
@@ -25539,9 +24687,6 @@
 =024  7\$aHI2004_004_01$2nyu-hidvl
 =024  7\$aHI2004_005_01$2nyu-hidvl
 =024  7\$aHI2004.002_01$2nyu-hidvl
-=035  9\$aNYUb12828954
-=035  \\$a(NYU)NYUb12828954
-=035  9\$aNYUH12828954/13377234
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =079  \\$a(OCoLC)85032016
@@ -25613,8 +24758,6 @@
 =024  7\$aHI2004_021_01$2nyu-hidvl
 =024  7\$aHI2004.021_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb12840177
-=035  9\$aNYUb12840177
-=035  9\$aNYUH12840177/13392086
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aInterview with Hortencia & Elvira Colorado (Coatlicue Theater Company)$h[videorecording].
@@ -25663,9 +24806,7 @@
 =008  031013e200307uunyu020\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2004_022_01$2nyu-hidvl
 =024  7\$aHI2004.022_01$2nyu-hidvl
-=035  9\$aNYUb12840200
 =035  \\$a(NYU)NYUb12840200
-=035  9\$aNYUH12840200/13392126
 =040  \\$aNNU$cNNU$eamim
 =043  \\$aspa$an-mx---
 =245  00$aInterview with Petrona de la Cruz & Isabel Juárez Espinosa (FOMMA)$h[videorecording].
@@ -25710,9 +24851,7 @@
 =024  7\$aHI2007_065_A_01$2nyu-hidvl
 =024  7\$aHI2007_065_B_01$2nyu-hidvl
 =024  7\$aHI2007.065_01_A$2nyu-hidvl
-=035  9\$aNYUb13530682
 =035  \\$a(NYU)NYUb13530682
-=035  9\$aNYUH13530682/14340343
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa$arom
 =043  \\$an-us-ca
@@ -25768,8 +24907,6 @@
 =024  7\$aHI2007_203_01$2nyu-hidvl
 =024  7\$aHI2007.202_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13544533
-=035  9\$aNYUb13544533
-=035  9\$aNYUH13544533/14367304
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -25958,9 +25095,6 @@
 =024  7\$aHI2007_218_01$2nyu-hidvl
 =024  7\$aHI2007_219_01$2nyu-hidvl
 =024  7\$aHI2007.218_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13605896
-=035  9\$aNYUb13605896
-=035  9\$aNYUH13605896/14478724
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -26017,8 +25151,6 @@
 =024  7\$aHI2006_156_01$2nyu-hidvl
 =024  7\$aHI2006.156_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13501121
-=035  9\$aNYUb13501121
-=035  9\$aNYUH13501121/14291964
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -26067,9 +25199,6 @@
 =008  070503e200407uunyu053\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_061_01$2nyu-hidvl
 =024  7\$aHI2006.061_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493783
-=035  9\$aNYUb13493783
-=035  9\$aNYUH13493783/14280534
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$a100 years of attitude$h[videorecording].
@@ -26122,8 +25251,6 @@
 =024  7\$aHI2007_216_01$2nyu-hidvl
 =024  7\$aHI2007.215_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605877
-=035  9\$aNYUb13605877
-=035  9\$aNYUH13605877/14478635
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -26215,8 +25342,6 @@
 =024  7\$aHI2007_190_01$2nyu-hidvl
 =024  7\$aHI2007.189_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541660
-=035  9\$aNYUb13541660
-=035  9\$aNYUH13541660/14361690
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -26276,8 +25401,6 @@
 =024  7\$aHI2007_093_01$2nyu-hidvl
 =024  7\$aHI2007.092_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13531607
-=035  9\$aNYUb13531607
-=035  9\$aNYUH13531607/14341981
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -26335,9 +25458,7 @@
 =008  070605e200409uunyu062\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_004_01$2nyu-hidvl
 =024  7\$aHI2007.004_01$2nyu-hidvl
-=035  9\$aNYUb13502221
 =035  \\$a(NYU)NYUb13502221
-=035  9\$aNYUH13502221/14293685
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny$an-us---
 =245  00$aBack to school show$h[videorecording].
@@ -26395,9 +25516,6 @@
 =024  7\$aHI2006_052_01$2nyu-hidvl
 =024  7\$aHI2006_053_01$2nyu-hidvl
 =024  7\$aHI2006.052_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493578
-=035  9\$aNYUb13493578
-=035  9\$aNYUH13493578/14280362
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-mx---
 =245  03$aEl club de los enemigos de Fox$h[videorecording].
@@ -26451,8 +25569,6 @@
 =024  7\$aHI2006_050_01$2nyu-hidvl
 =024  7\$aHI2006.049_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505000
-=035  9\$aNYUb13505000
-=035  9\$aNYUH13505000/14298140
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$an-us---$acl-----
@@ -26515,8 +25631,6 @@
 =024  7\$aHI2006_048_01$2nyu-hidvl
 =024  7\$aHI2006.048_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505007
-=035  9\$aNYUb13505007
-=035  9\$aNYUH13505007/14298146
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with Jesusa Rodríguez$h[videorecording].
@@ -26565,9 +25679,6 @@
 =024  7\$aHI2006_037_01$2nyu-hidvl
 =024  7\$aHI2006_038_01$2nyu-hidvl
 =024  7\$aHI2006.037_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13505296
-=035  9\$aNYUb13505296
-=035  9\$aNYUH13505296/14298604
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aPastorela terrorista$h[videorecording].
@@ -26618,7 +25729,6 @@
 =008  080509p200412uunyu069\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_261_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13612354
-=035  9\$aNYUb13612354
 =040  \\$aNNU$cNNU$eamim
 =245  00$aEast Coast Artists benefit$h[videorecording] :$bRasaBoxes demonstration.
 =246  30$aRasaBoxes demonstration
@@ -26666,8 +25776,6 @@
 =024  7\$aHI2007_209_01$2nyu-hidvl
 =024  7\$aHI2007.208_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605753
-=035  9\$aNYUb13605753
-=035  9\$aNYUH13605753/14478266
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)226381306
@@ -26766,9 +25874,6 @@
 =024  7\$aHI2005_078_01$2nyu-hidvl
 =024  7\$aHI2005_079_01$2nyu-hidvl
 =024  7\$aHI2005.077_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13549089
-=035  9\$aNYUb13549089
-=035  9\$aNYUH13549089/14376111
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$apor
 =043  \\$as-pe---
@@ -26822,8 +25927,6 @@
 =024  7\$aHI2007_222_01$2nyu-hidvl
 =024  7\$aHI2007_223_01$2nyu-hidvl
 =024  7\$aHI2007.222_01$2nyu-hidvl
-=035  9\$aNYUb13605933
-=035  9\$aNYUH13605933/14478787
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -26879,9 +25982,7 @@
 =008  070605e20050318bl\060\\\\\\\\\\\\vlpor\d
 =024  7\$aHI2007_015_01$2nyu-hidvl
 =024  7\$aHI2007.015_01$2nyu-hidvl
-=035  9\$aNYUb13502413
 =035  \\$a(NYU)NYUb13502413
-=035  9\$aNYUH13502413/14293976
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-bl---$asa-----
 =245  00$aCobra norato$h[videorecording].
@@ -26932,8 +26033,6 @@
 =024  7\$aHI2006_042_01$2nyu-hidvl
 =024  7\$aHI2006.042_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505164
-=035  9\$aNYUb13505164
-=035  9\$aNYUH13505164/14298342
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aarn
 =245  00$aInterview with Luisa Calcumil$h[videorecording].
@@ -26981,9 +26080,6 @@
 =024  7\$aHI2005_085_01$2nyu-hidvl
 =024  7\$aHI2005_086_01$2nyu-hidvl
 =024  7\$aHI2005.085_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13550197
-=035  9\$aNYUb13550197
-=035  9\$aNYUH13550197/14378132
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aLuisa Calcumil :$bes bueno mirarse en la propia sombra$h[videorecording]
@@ -27035,9 +26131,7 @@
 =008  070605e20050313bl\041\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_011_01$2nyu-hidvl
 =024  7\$aHI2007.011_01$2nyu-hidvl
-=035  9\$aNYUb13502300
 =035  \\$a(NYU)NYUb13502300
-=035  9\$aNYUH13502300/14293812
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  04$aThe role of the arts in a time of crisis$h[videorecording].
@@ -27085,8 +26179,6 @@
 =024  7\$aHI2005_087_01$2nyu-hidvl
 =024  7\$aHI2005.087_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13550212
-=035  9\$aNYUb13550212
-=035  9\$aNYUH13550212/14378159
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -27138,8 +26230,6 @@
 =024  7\$aHI2006_023_01$2nyu-hidvl
 =024  7\$aHI2006.023_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507125
-=035  9\$aNYUb13507125
-=035  9\$aNYUH13507125/14301044
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aInterview with Jesse Cooday (Tinglit)$h[videorecording].
@@ -27186,9 +26276,6 @@
 =008  070508e200507uunyu053\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_065_01$2nyu-hidvl
 =024  7\$aHI2006.065_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494726
-=035  9\$aNYUb13494726
-=035  9\$aNYUH13494726/14281952
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  04$aThe values horror show$h[videorecording].
@@ -27286,8 +26373,6 @@
 =024  7\$aHI2005_088_01_enh$2nyu-hidvl
 =024  7\$aHI2005.088_01_enh$2nyu-hidvl
 =035  \\$a(NYU)NYUb13550233
-=035  9\$aNYUb13550233
-=035  9\$aNYUH13550233/14378194
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -27340,9 +26425,6 @@
 =008  070619e20050728nyu028\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_022_01$2nyu-hidvl
 =024  7\$aHI2006.022_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13507139
-=035  9\$aNYUb13507139
-=035  9\$aNYUH13507139/14301067
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aInterview with Steve Elm (Oneida)$h[videorecording].
@@ -27429,8 +26511,6 @@
 =024  7\$aHI2005_092_01$2nyu-hidvl
 =024  7\$aHI2005.091_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13550633
-=035  9\$aNYUb13550633
-=035  9\$aNYUH13550633/14378675
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$apor$aspa
 =245  00$aGuillermo Gómez-Peña, James Luna & Violeta Luna :$bNock-ma : el shame-man meets el Mexican't y la hija apócrifa de Frida Cola y Freddy Kruger in Brazil$h[videorecording]
@@ -27487,8 +26567,6 @@
 =024  7\$aHI2005_090_01$2nyu-hidvl
 =024  7\$aHI2005.089_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13550312
-=035  9\$aNYUb13550312
-=035  9\$aNYUH13550312/14378317
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$apor
 =245  00$aMélange of contemporary American performance :$bQuetzal Guerrero, Larry Yazzie, David Pleasant & Dancing Earth$h[videorecording]
@@ -27546,9 +26624,6 @@
 =008  071004e20050203pr\039\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_191_01$2nyu-hidvl
 =024  7\$aHI2007.191_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13541669
-=035  9\$aNYUb13541669
-=035  9\$aNYUH13541669/14361708
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -27599,8 +26674,6 @@
 =024  7\$aHI2006_027_01$2nyu-hidvl
 =024  7\$aHI2006.027_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505526
-=035  9\$aNYUb13505526
-=035  9\$aNYUH13505526/14298916
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aAmnezac$h[videorecording].
@@ -27752,8 +26825,6 @@
 =024  7\$aHI2006_041_01$2nyu-hidvl
 =024  7\$aHI2006.040_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505178
-=035  9\$aNYUb13505178
-=035  9\$aNYUH13505178/14298373
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Pamyua$h[videorecording].
 =246  30$aPamyua
@@ -27806,8 +26877,6 @@
 =024  7\$aHI2007_105_01$2nyu-hidvl
 =024  7\$aHI2007.105_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13531750
-=035  9\$aNYUb13531750
-=035  9\$aNYUH13531750/14342208
 =040  \\$aNNU$cNNU$eamim
 =041  0\$apor
 =043  \\$as-bl---
@@ -27853,9 +26922,6 @@
 =008  070508e20051005nyu016\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_070_01$2nyu-hidvl
 =024  7\$aHI2006.070_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494916
-=035  9\$aNYUb13494916
-=035  9\$aNYUH13494916/14282254
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Alan Michelson$h[videorecording].
 =246  3\$aInterview with Alan Michelson (Mohawk)
@@ -27901,9 +26967,6 @@
 =008  070517e200509uunyu058\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_108_01$2nyu-hidvl
 =024  7\$aHI2006.108_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497779
-=035  9\$aNYUb13497779
-=035  9\$aNYUH13497779/14286879
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aPrincess$h[videorecording] :$bthe tail of a lost city.
@@ -27956,9 +27019,6 @@
 =008  070502e20050318bl\023\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_051_01$2nyu-hidvl
 =024  7\$aHI2006.051_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13493463
-=035  9\$aNYUb13493463
-=035  9\$aNYUH13493463/14280353
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-ck---
 =245  00$aInterview with Antanas Mockus$h[videorecording].
@@ -28007,8 +27067,6 @@
 =024  7\$aHI2006_047_01$2nyu-hidvl
 =024  7\$aHI2006.046_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505017
-=035  9\$aNYUb13505017
-=035  9\$aNYUH13505017/14298170
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -28064,9 +27122,6 @@
 =024  7\$aHI2005_080_01$2nyu-hidvl
 =024  7\$aHI2005_081_01$2nyu-hidvl
 =024  7\$aHI2005.080_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13549107
-=035  9\$aNYUb13549107
-=035  9\$aNYUH13549107/14376144
 =040  \\$aNNU$cNNU$eamim
 =041  0\$apor
 =043  \\$as-bl---
@@ -28122,9 +27177,7 @@
 =008  070605e20050315bl\052\\\\\\\\\\\\vlpor\d
 =024  7\$aHI2007_012_01$2nyu-hidvl
 =024  7\$aHI2007.012_01$2nyu-hidvl
-=035  9\$aNYUb13502323
 =035  \\$a(NYU)NYUb13502323
-=035  9\$aNYUH13502323/14293841
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-bl---
 =245  00$aSalvaguarda do patrimônio cultural$h[videorecording] :$bbases para constituição de direitos
@@ -28172,8 +27225,6 @@
 =024  7\$aHI2006_043_01$2nyu-hidvl
 =024  7\$aHI2006.043_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505110
-=035  9\$aNYUb13505110
-=035  9\$aNYUH13505110/14298277
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with David Pleasant$h[videorecording].
 =246  30$aDavid Pleasant
@@ -28220,8 +27271,6 @@
 =024  7\$aHI2006_028_01$2nyu-hidvl
 =024  7\$aHI2006.028_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505501
-=035  9\$aNYUb13505501
-=035  9\$aNYUH13505501/14298892
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  00$aOperation blue blood$h[videorecording].
@@ -28268,9 +27317,6 @@
 =008  070523e20050729ck\062\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_120_01$2nyu-hidvl
 =024  7\$aHI2006.120_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499598
-=035  9\$aNYUb13499598
-=035  9\$aNYUH13499598/14289588
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -28324,9 +27370,6 @@
 =008  070522s2005\\\\ck\028\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_114_01$2nyu-hidvl
 =024  7\$aHI2006.114_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13499337
-=035  9\$aNYUb13499337
-=035  9\$aNYUH13499337/14289230
 =040  \\$aNNU$cNNU$eamim
 =043  \\$as-ck---
 =245  04$aUna paz con alas$h[videorecording] :$bmemorias Teatro La Máscara.
@@ -28380,8 +27423,6 @@
 =024  7\$aHI2006_021_01$2nyu-hidvl
 =024  7\$aHI2006.021_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13507148
-=035  9\$aNYUb13507148
-=035  9\$aNYUH13507148/14301084
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aInterview with Rosemary Richmond, Executive Director of the AICH$h[videorecording].
@@ -28429,8 +27470,6 @@
 =024  7\$aHI2006_045_01$2nyu-hidvl
 =024  7\$aHI2006.045_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505023
-=035  9\$aNYUb13505023
-=035  9\$aNYUH13505023/14298186
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -28484,8 +27523,6 @@
 =024  7\$aHI2005_084_01$2nyu-hidvl
 =024  7\$aHI2005.084_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13550180
-=035  9\$aNYUb13550180
-=035  9\$aNYUH13550180/14378093
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa$aeng
 =043  \\$an-mx---
@@ -28541,8 +27578,6 @@
 =024  7\$aHI2007.250_01$2nyu-hidvl
 =024  7\$aHI2007.251_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610632
-=035  9\$aNYUb13610632
-=035  9\$aNYUH13610632/14486755
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng
 =079  \\$a(OCoLC)897092090
@@ -28590,9 +27625,6 @@
 =008  070531e20050314bl\016\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_153_01$2nyu-hidvl
 =024  7\$aHI2006.153_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13501049
-=035  9\$aNYUb13501049
-=035  9\$aNYUH13501049/14291859
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Beverly Singer$h[videorecording].
 =246  30$aBeverly Singer
@@ -28640,9 +27672,6 @@
 =008  070531e20050319bl\025\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_152_01$2nyu-hidvl
 =024  7\$aHI2006.152_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13500959
-=035  9\$aNYUb13500959
-=035  9\$aNYUH13500959/14291746
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aeng$ahaw
 =043  \\$an-us-hi
@@ -28693,8 +27722,6 @@
 =024  7\$aHI2006_044_01$2nyu-hidvl
 =024  7\$aHI2006.044_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13505056
-=035  9\$aNYUb13505056
-=035  9\$aNYUH13505056/14298222
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Dancing Earth$h[videorecording].
 =246  30$aDancing Earth
@@ -28743,9 +27770,6 @@
 =008  070508s20050606nyu029\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_069_01$2nyu-hidvl
 =024  7\$aHI2006.069_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494891
-=035  9\$aNYUb13494891
-=035  9\$aNYUH13494891/14282194
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Drew Hayden Taylor$h[videorecording].
 =246  3\$aInterview with Drew Hayden Taylor (Ojibway)
@@ -28827,8 +27851,6 @@
 =024  7\$aHI2006_154_01$2nyu-hidvl
 =024  7\$aHI2006.154_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13501085
-=035  9\$aNYUb13501085
-=035  9\$aNYUH13501085/14291912
 =040  \\$aNNU$cNNU$eamim
 =041  0\$apor
 =043  \\$as-bl---
@@ -28877,9 +27899,7 @@
 =024  7\$aHI2007_010_01$2nyu-hidvl
 =024  7\$aHI2007.009_01$2nyu-hidvl
 =024  7\$aHI2007.010_01$2nyu-hidvl
-=035  9\$aNYUb13502273
 =035  \\$a(NYU)NYUb13502273
-=035  9\$aNYUH13502273/14293767
 =040  \\$aNNU$cNNU$eamim
 =041  1\$apor$asai
 =043  \\$as-bl---
@@ -28933,9 +27953,6 @@
 =024  7\$aHI2007_204_01$2nyu-hidvl
 =024  7\$aHI2007_205_01$2nyu-hidvl
 =024  7\$aHI2007.204_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13544569
-=035  9\$aNYUb13544569
-=035  9\$aNYUH13544569/14367356
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---$as-ag---
@@ -28994,8 +28011,6 @@
 =024  7\$aHI2005_083_01$2nyu-hidvl
 =024  7\$aHI2005.082_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13550161
-=035  9\$aNYUb13550161
-=035  9\$aNYUH13550161/14378062
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aypk
 =043  \\$an-us-ak
@@ -29054,8 +28069,6 @@
 =024  7\$aHI2005_093_01$2nyu-hidvl
 =024  7\$aHI2005.093_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13550665
-=035  9\$aNYUb13550665
-=035  9\$aNYUH13550665/14378726
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$apor$aspa
 =245  00$aWelcome ritual for the Hemispheric Institute's 5th Encuentro$h[videorecording].
@@ -29101,9 +28114,6 @@
 =008  070531s2006\\\\ck\063\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_151_01$2nyu-hidvl
 =024  7\$aHI2006.151_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13500948
-=035  9\$aNYUb13500948
-=035  9\$aNYUH13500948/14291723
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ck---
@@ -29151,8 +28161,6 @@
 =024  7\$aHI2007_230_01$2nyu-hidvl
 =024  7\$aHI2007.229_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610613
-=035  9\$aNYUb13610613
-=035  9\$aNYUH13610613/14486718
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$anwpr---$an-us-ny$an-us---
@@ -29214,9 +28222,6 @@
 =008  070509e20060429nyu034\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_080_01$2nyu-hidvl
 =024  7\$aHI2006.080_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13495164
-=035  9\$aNYUb13495164
-=035  9\$aNYUH13495164/14282869
 =040  \\$aNNU$cNNU$eamim
 =041  1\$aeng$aspa
 =245  00$aCoatlicue Theater Company$h[videorecording] :$bHolding up the sky [excerpts].
@@ -29267,9 +28272,6 @@
 =008  070508e200606uunyu044\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_064_01$2nyu-hidvl
 =024  7\$aHI2006.064_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494697
-=035  9\$aNYUb13494697
-=035  9\$aNYUH13494697/14281919
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us---
 =245  04$aThe idiot king$h[videorecording].
@@ -29367,9 +28369,6 @@
 =008  070517e20060831mx\060\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2006_107_01$2nyu-hidvl
 =024  7\$aHI2006.107_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497741
-=035  9\$aNYUb13497741
-=035  9\$aNYUH13497741/14286824
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---$acl-----
@@ -29421,9 +28420,6 @@
 =008  070515e20060505nyu019\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_081_01$2nyu-hidvl
 =024  7\$aHI2006.081_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497194
-=035  9\$aNYUb13497194
-=035  9\$aNYUH13497194/14285821
 =040  \\$aNNU$cNNU$eamim
 =245  00$aIndian Summer 2006$h[videorecording] :$bDawn Dumont.
 =246  30$aDawn Dumont
@@ -29471,9 +28467,6 @@
 =008  070508e20060607nyu039\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_072_01$2nyu-hidvl
 =024  7\$aHI2006.072_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13495020
-=035  9\$aNYUb13495020
-=035  9\$aNYUH13495020/14282466
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Chris Eyre$h[videorecording].
 =246  3\$aInterview with Chris Eyre (Southern Cheyenne)
@@ -29519,9 +28512,7 @@
 =008  070605e20061018pr\050\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_014_01$2nyu-hidvl
 =024  7\$aHI2007.014_01$2nyu-hidvl
-=035  9\$aNYUb13502386
 =035  \\$a(NYU)NYUb13502386
-=035  9\$aNYUH13502386/14293931
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---
 =245  00$aInterview with Teresa Hernández$h[videorecording].
@@ -29571,8 +28562,6 @@
 =024  7\$aHI2007_201_01$2nyu-hidvl
 =024  7\$aHI2007.200_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541707
-=035  9\$aNYUb13541707
-=035  9\$aNYUH13541707/14361859
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$amwpr---$anwpr---
@@ -29628,8 +28617,6 @@
 =024  7\$aHI2007_188_01$2nyu-hidvl
 =024  7\$aHI2007.188_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541652
-=035  9\$aNYUb13541652
-=035  9\$aNYUH13541652/14361675
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -29680,9 +28667,7 @@
 =008  070605e20061017pr\042\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_013_01$2nyu-hidvl
 =024  7\$aHI2007.013_01$2nyu-hidvl
-=035  9\$aNYUb13502360
 =035  \\$a(NYU)NYUb13502360
-=035  9\$aNYUH13502360/14293889
 =040  \\$aNNU$cNNU$eamim
 =043  \\$anwpr---$acl-----
 =245  00$aInterview with Rosa Luisa Márquez$h[videorecording].
@@ -29730,8 +28715,6 @@
 =024  7\$aHI2007_095_01$2nyu-hidvl
 =024  7\$aHI2007.094_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13531637
-=035  9\$aNYUb13531637
-=035  9\$aNYUH13531637/14342013
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -29794,8 +28777,6 @@
 =024  7\$aHI2007.232_01$2nyu-hidvl
 =024  7\$aHI2007.233_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610621
-=035  9\$aNYUb13610621
-=035  9\$aNYUH13610621/14486740
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =079  \\$a(OCoLC)878606469
@@ -29855,9 +28836,6 @@
 =008  070515e20060520nyu056\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_079_01$2nyu-hidvl
 =024  7\$aHI2006.079_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13497172
-=035  9\$aNYUb13497172
-=035  9\$aNYUH13497172/14285780
 =040  \\$aNNU$cNNU$eamim
 =245  00$aIndian Summer 2006$h[videorecording] :$bSpiderwoman Theater.
 =246  30$aSpiderwoman Theater
@@ -29909,9 +28887,6 @@
 =008  070530e20061116nyu026\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_149_01$2nyu-hidvl
 =024  7\$aHI2006.149_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13500849
-=035  9\$aNYUb13500849
-=035  9\$aNYUH13500849/14291506
 =040  \\$aNNU$cNNU$eamim
 =043  \\$an-us-ny
 =245  00$aInterview with Jennifer Miller$h[videorecording].
@@ -29958,9 +28933,6 @@
 =008  070508e20060405nyu010\\\\\\\\\\\\vleng\d
 =024  7\$aHI2006_071_01$2nyu-hidvl
 =024  7\$aHI2006.071_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13494964
-=035  9\$aNYUb13494964
-=035  9\$aNYUH13494964/14282345
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Soni Moreno$h[videorecording].
 =246  3\$aInterview with Soni Moreno (Mayan/Apache/Yaqui)
@@ -30008,7 +28980,6 @@
 =024  7\$aHI2007_214_01$2nyu-hidvl
 =024  7\$aHI2007.214_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13605867
-=035  9\$aNYUb13605867
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ec---
@@ -30109,9 +29080,7 @@
 =008  070905e20070608ag\014\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_124_01$2nyu-hidvl
 =024  7\$aHI2007.124_01$2nyu-hidvl
-=035  9\$aNYUb13532165
 =035  \\$a(NYU)NYUb13532165
-=035  9\$aNYUH13532165/14342926
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with Miriam Álvarez & Lorena Cañuqueo (Proyecto de Teatro Mapuche)$h[videorecording]
@@ -30162,9 +29131,7 @@
 =008  071002e20070609ag\024\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_166_01$2nyu-hidvl
 =024  7\$aHI2007.166_01$2nyu-hidvl
-=035  9\$aNYUb13541100
 =035  \\$a(NYU)NYUb13541100
-=035  9\$aNYUH13541100/14360709
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aProyecto de Teatro Mapuche$h[videorecording] :$bPewma.
@@ -30256,9 +29223,6 @@
 =024  7\$aHI2007_168_01$2nyu-hidvl
 =024  7\$aHI2007_169_01$2nyu-hidvl
 =024  7\$aHI2007.168_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13541249
-=035  9\$aNYUb13541249
-=035  9\$aNYUH13541249/14360996
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -30357,9 +29321,6 @@
 =008  071003e20070612ag\045\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_172_01$2nyu-hidvl
 =024  7\$aHI2007.172_01$2nyu-hidvl
-=035  9\$aNYUb13541290
-=035  \\$a(NYU)NYUb13541290
-=035  9\$aNYUH13541290/14361068
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aMónica Cabrera$h[videorecording] :$bEl sistema de la víctima.
@@ -30452,7 +29413,6 @@
 =008  080503e20070525xx\061\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_231_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13610620
-=035  9\$aNYUb13610620
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$anwpr---$an-us-ny$an-us---
@@ -30513,9 +29473,7 @@
 =008  070905e20070615ag\023\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_133_01$2nyu-hidvl
 =024  7\$aHI2007.133_01$2nyu-hidvl
-=035  9\$aNYUb13532315
 =035  \\$a(NYU)NYUb13532315
-=035  9\$aNYUH13532315/14343205
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with Susana Cook$h[videorecording]
@@ -30561,9 +29519,7 @@
 =008  071003e20070614ag\050\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_178_01$2nyu-hidvl
 =024  7\$aHI2007.178_01$2nyu-hidvl
-=035  9\$aNYUb13541385
 =035  \\$a(NYU)NYUb13541385
-=035  9\$aNYUH13541385/14361209
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aSusana Cook$h[videorecording] :$bThe unpatriotic act : homeland insecurities.
@@ -30617,9 +29573,7 @@
 =008  070905e20070610ag\028\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_126_01$2nyu-hidvl
 =024  7\$aHI2007.126_01$2nyu-hidvl
-=035  9\$aNYUb13532210
 =035  \\$a(NYU)NYUb13532210
-=035  9\$aNYUH13532210/14343009
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-pe---
@@ -30713,9 +29667,7 @@
 =008  071003e20070613ag\028\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_173_01$2nyu-hidvl
 =024  7\$aHI2007.173_01$2nyu-hidvl
-=035  9\$aNYUb13541315
 =035  \\$a(NYU)NYUb13541315
-=035  9\$aNYUH13541315/14361099
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-cl---
@@ -30812,8 +29764,6 @@
 =024  7\$aHI2007_143_01$2nyu-hidvl
 =024  7\$aHI2007.143_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13532606
-=035  9\$aNYUb13532606
-=035  9\$aNYUH13532606/14343680
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-cl---
@@ -30863,9 +29813,7 @@
 =024  7\$aHI2007_149_01$2nyu-hidvl
 =024  7\$aHI2007_150_01$2nyu-hidvl
 =024  7\$aHI2007.149_01$2nyu-hidvl
-=035  9\$aNYUb13532677
 =035  \\$a(NYU)NYUb13532677
-=035  9\$aNYUH13532677/14343798
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aDiamela Eltit keynote address$h[videorecording] :$bPliegues del cuerpo : los síntomas del poder
@@ -30919,9 +29867,7 @@
 =024  7\$aHI2007_176_01$2nyu-hidvl
 =024  7\$aHI2007_177_01$2nyu-hidvl
 =024  7\$aHI2007.176_01$2nyu-hidvl
-=035  9\$aNYUb13541363
 =035  \\$a(NYU)NYUb13541363
-=035  9\$aNYUH13541363/14361171
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -30969,9 +29915,7 @@
 =008  070906e20070614ag\024\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_138_01$2nyu-hidvl
 =024  7\$aHI2007.138_01$2nyu-hidvl
-=035  9\$aNYUb13532532
 =035  \\$a(NYU)NYUb13532532
-=035  9\$aNYUH13532532/14343541
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Coco Fusco$h[videorecording]
 =246  30$aCoco Fusco
@@ -31016,9 +29960,7 @@
 =008  070906e20070609ag\024\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_136_01$2nyu-hidvl
 =024  7\$aHI2007.136_01$2nyu-hidvl
-=035  9\$aNYUb13532517
 =035  \\$a(NYU)NYUb13532517
-=035  9\$aNYUH13532517/14343512
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with María Galindo (Mujeres Creando)$h[videorecording]
@@ -31108,9 +30050,7 @@
 =008  070905e20070612ag\016\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_128_01$2nyu-hidvl
 =024  7\$aHI2007.128_01$2nyu-hidvl
-=035  9\$aNYUb13532228
 =035  \\$a(NYU)NYUb13532228
-=035  9\$aNYUH13532228/14343045
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -31204,9 +30144,7 @@
 =008  071003e20070611ag\056\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_170_01$2nyu-hidvl
 =024  7\$aHI2007.170_01$2nyu-hidvl
-=035  9\$aNYUb13541258
 =035  \\$a(NYU)NYUb13541258
-=035  9\$aNYUH13541258/14361011
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aMujeres Creando$h[videorecording] :$bVerbo hecho carne, carne sin verbo.
@@ -31257,9 +30195,7 @@
 =008  070905e20070609ag\020\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_125_01$2nyu-hidvl
 =024  7\$aHI2007.125_01$2nyu-hidvl
-=035  9\$aNYUb13532177
 =035  \\$a(NYU)NYUb13532177
-=035  9\$aNYUH13532177/14342959
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with Miriam Gomes$h[videorecording]
@@ -31305,9 +30241,7 @@
 =008  070906e20070615ag\022\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_141_01$2nyu-hidvl
 =024  7\$aHI2007.141_01$2nyu-hidvl
-=035  9\$aNYUb13532578
 =035  \\$a(NYU)NYUb13532578
-=035  9\$aNYUH13532578/14343633
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Guillermo Gómez-Peña (La Pocha Nostra)$h[videorecording]
 =246  30$aGuillermo Gómez-Peña
@@ -31353,9 +30287,7 @@
 =024  7\$aHI2007_174_01$2nyu-hidvl
 =024  7\$aHI2007_175_01$2nyu-hidvl
 =024  7\$aHI2007.174_01$2nyu-hidvl
-=035  9\$aNYUb13541338
 =035  \\$a(NYU)NYUb13541338
-=035  9\$aNYUH13541338/14361135
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aLa Pocha Nostra$h[videorecording] :$bMapa/corpo 2 : ritos interactivos para el nuevo milenio.
@@ -31459,9 +30391,6 @@
 =008  070906e20070616ag\017\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_142_01$2nyu-hidvl
 =024  7\$aHI2007.142_01$2nyu-hidvl
-=035  9\$aNYUb13532590
-=035  \\$a(NYU)NYUb13532590
-=035  9\$aNYUH13532590/14343657
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with Roberto Gutiérrez Varea & Violeta Luna (Secos y Mojados)$h[videorecording]
@@ -31512,9 +30441,7 @@
 =008  070905e20070613ag\022\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_130_01$2nyu-hidvl
 =024  7\$aHI2007.130_01$2nyu-hidvl
-=035  9\$aNYUb13532234
 =035  \\$a(NYU)NYUb13532234
-=035  9\$aNYUH13532234/14343065
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwdr---
@@ -31604,9 +30531,6 @@
 =008  070905e20070614ag\024\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_132_01$2nyu-hidvl
 =024  7\$aHI2007.132_01$2nyu-hidvl
-=035  9\$aNYUb13532292
-=035  \\$a(NYU)NYUb13532292
-=035  9\$aNYUH13532292/14343165
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Danny Hoch$h[videorecording]
 =246  30$aDanny Hoch
@@ -31655,8 +30579,6 @@
 =024  7\$aHI2007_153_01$2nyu-hidvl
 =024  7\$aHI2007.151_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13540860
-=035  9\$aNYUb13540860
-=035  9\$aNYUH13540860/14360326
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =245  00$aHip hop theater$h[videorecording] :$ban evening with Danny Hoch.
@@ -31790,9 +30712,6 @@
 =008  071002e20070611ag\010\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_160_01$2nyu-hidvl
 =024  7\$aHI2007.160_01$2nyu-hidvl
-=035  9\$aNYUb13540968
-=035  \\$a(NYU)NYUb13540968
-=035  9\$aNYUH13540968/14360490
 =040  \\$aNNU$cNNU$eamim
 =245  00$aAnna Jacobs$h[videorecording] :$bThe story of a boy born a girl.
 =246  30$aStory of a boy born a girl
@@ -31839,9 +30758,7 @@
 =008  071002e20070609ag\023\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_165_01$2nyu-hidvl
 =024  7\$aHI2007.165_01$2nyu-hidvl
-=035  9\$aNYUb13541066
 =035  \\$a(NYU)NYUb13541066
-=035  9\$aNYUH13541066/14360638
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-mx---
@@ -31935,9 +30852,6 @@
 =024  7\$aHI2007_156_01$2nyu-hidvl
 =024  7\$aHI2007_157_01$2nyu-hidvl
 =024  7\$aHI2007.156_01$2nyu-hidvl
-=035  9\$aNYUb13540925
-=035  \\$a(NYU)NYUb13540925
-=035  9\$aNYUH13540925/14360429
 =040  \\$aNNU$cNNU$eamim
 =245  00$a2boys.tv$h[videorecording] :$bZona pellucida.
 =246  30$aZona pellucida
@@ -31987,9 +30901,7 @@
 =008  070905e20070612ag\015\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_127_01$2nyu-hidvl
 =024  7\$aHI2007.127_01$2nyu-hidvl
-=035  9\$aNYUb13532216
 =035  \\$a(NYU)NYUb13532216
-=035  9\$aNYUH13532216/14343024
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with George Lewis$h[videorecording]
 =246  30$aGeorge Lewis
@@ -32035,9 +30947,6 @@
 =024  7\$aHI2007_145_01$2nyu-hidvl
 =024  7\$aHI2007_146_01$2nyu-hidvl
 =024  7\$aHI2007.145_01$2nyu-hidvl
-=035  9\$aNYUb13532639
-=035  \\$a(NYU)NYUb13532639
-=035  9\$aNYUH13532639/14343746
 =040  \\$aNNU$cNNU$eamim
 =245  00$aGeorge Lewis keynote address$h[videorecording] :$bLiving with creative machines.
 =246  30$aLiving with creative machines
@@ -32089,9 +30998,6 @@
 =008  071002e20070609ag\049\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_161_01$2nyu-hidvl
 =024  7\$aHI2007.161_01$2nyu-hidvl
-=035  9\$aNYUb13540991
-=035  \\$a(NYU)NYUb13540991
-=035  9\$aNYUH13540991/14360516
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aSecos y Mojados$h[videorecording] :$bEnterrada en al cuerpo del recuerdo.
@@ -32140,9 +31046,7 @@
 =008  071003e20070616ag\017\\\\\\\\\\\\vlmul\d
 =024  7\$aHI2007_180_01$2nyu-hidvl
 =024  7\$aHI2007.180_01$2nyu-hidvl
-=035  9\$aNYUb13541406
 =035  \\$a(NYU)NYUb13541406
-=035  9\$aNYUH13541406/14361264
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$apor$aspa
 =245  00$aNirvana Marinho$h[videorecording] :$bCorpo noutro corpo.
@@ -32190,9 +31094,7 @@
 =008  070905e20070614ag\020\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_131_01$2nyu-hidvl
 =024  7\$aHI2007.131_01$2nyu-hidvl
-=035  9\$aNYUb13532278
 =035  \\$a(NYU)NYUb13532278
-=035  9\$aNYUH13532278/14343141
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Michelle Matlock$h[videorecording]
 =246  30$aMichelle Matlock
@@ -32239,9 +31141,6 @@
 =024  7\$aHI2007_154_01$2nyu-hidvl
 =024  7\$aHI2007_155_01$2nyu-hidvl
 =024  7\$aHI2007.154_01$2nyu-hidvl
-=035  9\$aNYUb13540895
-=035  \\$a(NYU)NYUb13540895
-=035  9\$aNYUH13540895/14360380
 =040  \\$aNNU$cNNU$eamim
 =245  00$aMichelle Matlock$h[videorecording] :$bthe Mammy project.
 =246  30$aMammy project
@@ -32335,9 +31234,6 @@
 =008  071003e20070615ag\034\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_179_01$2nyu-hidvl
 =024  7\$aHI2007.179_01$2nyu-hidvl
-=035  9\$aNYUb13541397
-=035  \\$a(NYU)NYUb13541397
-=035  9\$aNYUH13541397/14361244
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$an-us---$an-mx---
@@ -32472,9 +31368,7 @@
 =008  070905e20070608ag\017\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_134_01$2nyu-hidvl
 =024  7\$aHI2007.134_01$2nyu-hidvl
-=035  9\$aNYUb13532336
 =035  \\$a(NYU)NYUb13532336
-=035  9\$aNYUH13532336/14343246
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$as-ag---
@@ -32611,8 +31505,6 @@
 =024  7\$aHI2007_144_01$2nyu-hidvl
 =024  7\$aHI2007.144_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13532617
-=035  9\$aNYUb13532617
-=035  9\$aNYUH13532617/14343707
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Aaron Pollard & Stephen Lawson (2boys.tv)$h[videorecording].
 =246  3\$aInterview with 2boys.tv (Aaron Pollard & Stephen Lawson)
@@ -32664,9 +31556,7 @@
 =024  7\$aHI2007_147_01$2nyu-hidvl
 =024  7\$aHI2007_148_01$2nyu-hidvl
 =024  7\$aHI2007.147_01$2nyu-hidvl
-=035  9\$aNYUb13532662
 =035  \\$a(NYU)NYUb13532662
-=035  9\$aNYUH13532662/14343781
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aRossana Reguillo keynote address$h[videorecording] :$bCondensaciones y desplazamientos : las políticas del miedo en los cuerpos contemporáneos.
@@ -32801,9 +31691,7 @@
 =008  071003e20070611ag\053\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_171_01$2nyu-hidvl
 =024  7\$aHI2007.171_01$2nyu-hidvl
-=035  9\$aNYUb13541281
 =035  \\$a(NYU)NYUb13541281
-=035  9\$aNYUH13541281/14361049
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aSor Juana, Primero sueño$h[videorecording] =$bSor Juana, First dream.
@@ -32857,8 +31745,6 @@
 =007  vd\cvaizu
 =008  080503e20070426xx\054\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_226_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13610597
-=035  9\$aNYUb13610597
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$anwpr---$an-us-ny$an-us---
@@ -32917,9 +31803,6 @@
 =024  7\$aHI2007_227_01$2nyu-hidvl
 =024  7\$aHI2007_228_01$2nyu-hidvl
 =024  7\$aHI2007.227_01$2nyu-hidvl
-=035  \\$a(NYU)NYUb13610598
-=035  9\$aNYUb13610598
-=035  9\$aNYUH13610598/14486703
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =079  \\$a(OCoLC)878606466
@@ -33017,8 +31900,6 @@
 =024  7\$aHI2007_137_01$2nyu-hidvl
 =024  7\$aHI2007.137_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13532524
-=035  9\$aNYUb13532524
-=035  9\$aNYUH13532524/14343529
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Reverend Billy & Savitri D. (the Church of Stop Shopping)$h[videorecording]
 =246  3\$aInterview with William Talen & Savitri Durkee (the Church of Stop Shopping)
@@ -33068,9 +31949,7 @@
 =008  071002e20070610ag\034\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_167_01$2nyu-hidvl
 =024  7\$aHI2007.167_01$2nyu-hidvl
-=035  9\$aNYUb13541125
 =035  \\$a(NYU)NYUb13541125
-=035  9\$aNYUH13541125/14360740
 =040  \\$aNNU$cNNU$eamim
 =245  00$aReverend Billy$h[videorecording] :$bReverend Billy preaches.
 =246  30$aReverend Billy preaches
@@ -33120,9 +31999,7 @@
 =008  070906e20070615ag\022\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_140_01$2nyu-hidvl
 =024  7\$aHI2007.140_01$2nyu-hidvl
-=035  9\$aNYUb13532567
 =035  \\$a(NYU)NYUb13532567
-=035  9\$aNYUH13532567/14343611
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Rulan Tangen (Dancing Earth) & Leland Chapin (Los Colores Studio)$h[videorecording]
 =246  3\$aInterview with Rulan Tangen & Leland Chapin
@@ -33298,9 +32175,7 @@
 =008  071002e20070608ag\030\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_164_01$2nyu-hidvl
 =024  7\$aHI2007.164_01$2nyu-hidvl
-=035  9\$aNYUb13541053
 =035  \\$a(NYU)NYUb13541053
-=035  9\$aNYUH13541053/14360619
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aDiana Raznovich$h[videorecording] :$bEl cuerpo efímero : una muerte de lujo.
@@ -33355,8 +32230,6 @@
 =024  7\$aHI2007_163_01$2nyu-hidvl
 =024  7\$aHI2007.162_01$2nyu-hidvl
 =035  \\$a(NYU)NYUb13541035
-=035  9\$aNYUb13541035
-=035  9\$aNYUH13541035/14360588
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aMapa Teatro$h[videorecording] :$bTestigo de las ruinas.
@@ -33418,9 +32291,7 @@
 =008  070906e20070614ag\024\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_139_01$2nyu-hidvl
 =024  7\$aHI2007.139_01$2nyu-hidvl
-=035  9\$aNYUb13532551
 =035  \\$a(NYU)NYUb13532551
-=035  9\$aNYUH13532551/14343580
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =043  \\$anwpr---
@@ -33469,9 +32340,7 @@
 =008  071003e20070616ag\023\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_181_01$2nyu-hidvl
 =024  7\$aHI2007.181_01$2nyu-hidvl
-=035  9\$aNYUb13541431
 =035  \\$a(NYU)NYUb13541431
-=035  9\$aNYUH13541431/14361315
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aeng$aspa
 =043  \\$anwpr---$an-us---
@@ -33524,9 +32393,7 @@
 =008  070905e20070613ag\023\\\\\\\\\\\\vleng\d
 =024  7\$aHI2007_129_01$2nyu-hidvl
 =024  7\$aHI2007.129_01$2nyu-hidvl
-=035  9\$aNYUb13532230
 =035  \\$a(NYU)NYUb13532230
-=035  9\$aNYUH13532230/14343053
 =040  \\$aNNU$cNNU$eamim
 =245  00$aInterview with Lois Weaver & Peggy Shaw (Split Britches)$h[videorecording]
 =246  3\$aInterview with Split Britches (Lois Weaver & Peggy Shaw)
@@ -33577,9 +32444,6 @@
 =024  7\$aHI2007_158_01$2nyu-hidvl
 =024  7\$aHI2007_159_01$2nyu-hidvl
 =024  7\$aHI2007.158_01$2nyu-hidvl
-=035  9\$aNYUb13540948
-=035  \\$a(NYU)NYUb13540948
-=035  9\$aNYUH13540948/14360462
 =040  \\$aNNU$cNNU$eamim
 =245  00$aSplit Britches$h[videorecording] :$bRetro perspective : It's a small house and we've lived in it always.
 =246  30$aRetro perspective
@@ -33757,9 +32621,7 @@
 =008  070905e20070608ag\017\\\\\\\\\\\\vlspa\d
 =024  7\$aHI2007_135_01$2nyu-hidvl
 =024  7\$aHI2007.135_01$2nyu-hidvl
-=035  9\$aNYUb13532365
 =035  \\$a(NYU)NYUb13532365
-=035  9\$aNYUH13532365/14343300
 =040  \\$aNNU$cNNU$eamim
 =041  0\$aspa
 =245  00$aInterview with Federico Zukerfeld & Loreto Garín (Grupo Etcétera)$h[videorecording]
